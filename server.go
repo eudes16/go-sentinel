@@ -22,7 +22,7 @@ func main() {
 
 	utils.InitBot()
 
-	r.Run(":8080")
+	r.Run(":3000")
 }
 
 func runMigrations() {
