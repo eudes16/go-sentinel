@@ -9,6 +9,9 @@ services:
       - "3000:3000"
     links: 
       - db
+    volumes:
+      - .:/go/src/github.com/eudes16/go-sentinel
+    entrypoint: modd
     depends_on:  
       - db
   db:
