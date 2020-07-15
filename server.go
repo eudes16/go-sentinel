@@ -4,6 +4,7 @@ import (
 	"eudes16/go-sentinel/database"
 	"eudes16/go-sentinel/entities"
 	"eudes16/go-sentinel/router"
+	"eudes16/go-sentinel/utils"
 	"github.com/gin-gonic/gin"
 	uuid "github.com/satori/go.uuid"
 	"time"
@@ -19,7 +20,9 @@ func main() {
 
 	router.Attach(r)
 
-	r.Run(":3000")
+	utils.InitBot()
+
+	r.Run(":8080")
 }
 
 func runMigrations() {
