@@ -7,7 +7,7 @@ import (
 )
 
 // HomeHandlers ...
-func homeHandlers(r *gin.Engine) {
+func HomeHandlers(r *gin.Engine) {
 	home := r.Group("/")
 	{
 		home.GET("/", homeIndex)

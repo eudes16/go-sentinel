@@ -1,17 +1,19 @@
 package router
 
 import (
+	"eudes16/go-sentinel/handlers"
+
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 )
 
-// Router ...
-func Router(router *gin.Engine) {
+// Attach ...
+func Attach(router *gin.Engine) {
 	// Abilita o CORS
 	router.Use(cors.Default())
 
 	// declaração das rotas
-	handlers.homeHandlers(router)
+	handlers.HomeHandlers(router)
 
-	handlers.logsHandlers(router)
+	handlers.LogsHandlers(router)
 }

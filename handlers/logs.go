@@ -6,14 +6,16 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-func logsHandlers(r *gin.Engine) {
+// LogsHandlers ...
+func LogsHandlers(r *gin.Engine) {
 	logs := r.Group("/logs")
 	{
 		logs.GET("/", logsIndex)
-		logs.POST("/", logsIndex)
+		logs.POST("/", logsCreate)
 	}
 }
 
+// Method GET
 func logsIndex(c *gin.Context) {
 	c.JSON(http.StatusOK, gin.H{
 		"status":  200,
@@ -21,9 +23,10 @@ func logsIndex(c *gin.Context) {
 	})
 }
 
+// Method POST
 func logsCreate(c *gin.Context) {
 	c.JSON(http.StatusOK, gin.H{
 		"status":  200,
-		"message": "Logs",
+		"message": "Logs POST",
 	})
 }

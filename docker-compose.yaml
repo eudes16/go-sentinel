@@ -1,12 +1,22 @@
 version: '3'
 
 services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    links: 
+      - db
+    depends_on:  
+      - db
   db:
     image: postgres:11.2
     #    restart: always
     environment:
       - POSTGRES_USER=sentinel
       - POSTGRES_PASSWORD=sentinel
-      - POSTGRES_DB=vista_sentinel
+      - POSTGRES_DB=go_sentinel
     ports:
       - "5432:5432"
