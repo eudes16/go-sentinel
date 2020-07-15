@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  db:
+    image: postgres:11.2
+    #    restart: always
+    environment:
+      - POSTGRES_USER=sentinel
+      - POSTGRES_PASSWORD=sentinel
+      - POSTGRES_DB=vista_sentinel
+    ports:
+      - "5432:5432"
