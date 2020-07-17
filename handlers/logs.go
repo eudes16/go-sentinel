@@ -3,7 +3,6 @@ package handlers
 import (
 	"eudes16/go-sentinel/database"
 	"eudes16/go-sentinel/entities"
-	"eudes16/go-sentinel/utils"
 	"fmt"
 	"net/http"
 
@@ -74,9 +73,14 @@ func logsCreate(c *gin.Context) {
 
 	database.Connector.Create(&log)
 
-	database.Connector.Model(&log).Related(&log.Application).Related(&log.Language)
+	err := database.Connector.Model(&log).Related(&log.Application).Related(&log.Language).Error
 
-	utils.SendMessage(&log)
+	if err != nil {
+		c.JSON(http.StatusNotModified, map[string]string{"message": "Not created"})
+		return
+	}
+
+	//utils.SendMessage(&log)
 
 	c.JSON(http.StatusCreated, log)
 }

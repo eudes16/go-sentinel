@@ -17,4 +17,6 @@ func Attach(router *gin.Engine) {
 	handlers.HomeHandlers(router)
 
 	handlers.LogsHandlers(router)
+
+	handlers.ApplicationsHandlers(router)
 }
