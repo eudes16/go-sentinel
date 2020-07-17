@@ -2,13 +2,15 @@ package database
 
 import (
 	"fmt"
-	"os"
-
 	"github.com/jinzhu/gorm"
+	_ "github.com/jinzhu/gorm/dialects/postgres"
+	"github.com/joho/godotenv"
+	"os"
 )
 
 // Connector ...
 var Connector *gorm.DB
+var err error
 
 // ConnectorConfig represents db configuration
 type ConnectorConfig struct {
@@ -20,11 +22,12 @@ type ConnectorConfig struct {
 }
 
 // BuildConnectorConfig ...
-func BuildConnectorConfig() *ConnectorConfig {
+func buildConnectorConfig() *ConnectorConfig {
+	_ = godotenv.Load(".env")
 	connectorConfig := ConnectorConfig{
 		Host:     os.Getenv("DB_HOST"),
 		Port:     os.Getenv("DB_PORT"),
-		User:     os.Getenv("DB_USER"),
+		User:     os.Getenv("DB_NAME"),
 		Password: os.Getenv("DB_SECRET"),
 		DBName:   os.Getenv("DB_SCHEMA"),
 	}
@@ -32,13 +35,24 @@ func BuildConnectorConfig() *ConnectorConfig {
 }
 
 // ConnectorURL ...
-func ConnectorURL(connectorConfig *ConnectorConfig) string {
+func connectorURL(connectorConfig *ConnectorConfig) string {
 	return fmt.Sprintf(
-		"host=%s port=%s user=%s dbname=%s password=%s",
+		"host=%s port=%s user=%s dbname=%s password=%s sslmode=disable",
 		connectorConfig.Host,
-		connectorConfig.User,
-		connectorConfig.Password,
 		connectorConfig.Port,
+		connectorConfig.User,
 		connectorConfig.DBName,
+		connectorConfig.Password,
 	)
+}
+
+func OpenConnection() {
+	Connector, err = gorm.Open("postgres", connectorURL(buildConnectorConfig()))
+
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	Connector.LogMode(true)
+
 }
