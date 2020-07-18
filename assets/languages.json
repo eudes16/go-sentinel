@@ -1,0 +1,2772 @@
+{
+  "languages": [
+    {
+      "id": "f072fb3c-1805-459c-ae89-3ebeaac05d72",
+      "name": "A.NET"
+    },
+    {
+      "id": "37b20162-e4de-4ed0-9dbc-2cea324395e2",
+      "name": "ABC ALGOL"
+    },
+    {
+      "id": "82e8dabc-8f06-4534-8799-43b73302b500",
+      "name": "ABAP"
+    },
+    {
+      "id": "c2e4029c-7039-463e-b8f9-0fbcf3dbeef2",
+      "name": "A+"
+    },
+    {
+      "id": "b97e4ae4-1285-4216-b786-e5fb438c67d4",
+      "name": "A-0 System"
+    },
+    {
+      "id": "a1d1456e-06e6-45aa-9cba-f11857e5d189",
+      "name": "ABC"
+    },
+    {
+      "id": "faf6a95a-6916-4716-b343-da767eac0ad9",
+      "name": "ACC"
+    },
+    {
+      "id": "17d28713-b348-4938-8f71-e98cb66f68a1",
+      "name": "Accent"
+    },
+    {
+      "id": "06353a78-d184-4a03-87dc-65cf256513b4",
+      "name": "Ace DASL (Distributed Application Specification Language)"
+    },
+    {
+      "id": "f619d755-ee27-470b-b95b-01ae0a517c3a",
+      "name": "Actor"
+    },
+    {
+      "id": "75d22faf-8b70-4d57-8b0a-0c857c6232bd",
+      "name": "ActionScript"
+    },
+    {
+      "id": "a7da722f-0cd9-4a25-80c0-01294214e629",
+      "name": "Ada"
+    },
+    {
+      "id": "73eb44c5-5202-4ae0-ae52-6632e4691100",
+      "name": "Adenine"
+    },
+    {
+      "id": "ecbf746e-c274-4ed2-a161-fdb969999f42",
+      "name": "Action!"
+    },
+    {
+      "id": "bc57605e-92ed-4297-b665-92c76f827911",
+      "name": "Agda"
+    },
+    {
+      "id": "5eeeac3c-2bd3-43ca-9000-1e86c28ec75f",
+      "name": "Agilent VEE"
+    },
+    {
+      "id": "9d9ef3b3-bbeb-45c9-b317-d2c65ca88d8f",
+      "name": "Agora"
+    },
+    {
+      "id": "0cfcf750-8543-4385-ba4f-4bbf0e9193f8",
+      "name": "AIMMS"
+    },
+    {
+      "id": "208f3e6e-87af-41dd-97ed-be11803547fe",
+      "name": "Aldor"
+    },
+    {
+      "id": "87960f8d-bf16-4a1d-a79a-6f18c7bb1ad0",
+      "name": "ALF"
+    },
+    {
+      "id": "26417da6-e7f8-4e61-91ac-c7c8062d78c8",
+      "name": "Alef"
+    },
+    {
+      "id": "0789f7a9-35d8-437e-90d0-13d2c48446ac",
+      "name": "ALGOL 68"
+    },
+    {
+      "id": "4a4a8279-1adc-4f7e-b679-24cf347a475d",
+      "name": "ALGOL W"
+    },
+    {
+      "id": "7efe9b93-b668-4454-a396-edfc8f78e25f",
+      "name": "ALGOL 60"
+    },
+    {
+      "id": "abf890d6-0069-483c-b407-e060d8bb547e",
+      "name": "Alice"
+    },
+    {
+      "id": "a45c3410-f4fa-4e2d-8a0b-f74d462ef81e",
+      "name": "Alma-0"
+    },
+    {
+      "id": "d1a648c2-ec46-4286-a6bb-5c6bd9143901",
+      "name": "ALGOL 58"
+    },
+    {
+      "id": "d87c6ae3-1bc2-4e24-841e-9af7fff99745",
+      "name": "AmbientTalk"
+    },
+    {
+      "id": "1c7bce36-70e0-4efc-8e15-1e82c705eb2e",
+      "name": "Amiga E"
+    },
+    {
+      "id": "c04c3b6e-ceb7-4532-9e52-283059885679",
+      "name": "AMOS"
+    },
+    {
+      "id": "2450652a-e6b5-4548-b558-1f039e0de321",
+      "name": "AMPL"
+    },
+    {
+      "id": "1e518dbd-4ec1-4721-b529-122acaf8c997",
+      "name": "AngelScript"
+    },
+    {
+      "id": "a747baaf-c25d-482d-916b-54d5a4c1ecb9",
+      "name": "APL"
+    },
+    {
+      "id": "e42664cd-1f62-44d3-8248-934b265e4b47",
+      "name": "Apex"
+    },
+    {
+      "id": "e43f052e-56c1-440a-bbe4-f9c7f97e17ec",
+      "name": "App Inventor for Android's visual block language"
+    },
+    {
+      "id": "2657f6ba-dd16-42af-a6c4-5a79028d2e8d",
+      "name": "AppleScript"
+    },
+    {
+      "id": "bd8d28a1-2958-45e3-a659-b12066204460",
+      "name": "APT"
+    },
+    {
+      "id": "b443dcd5-69cd-4c6b-9095-538276a83117",
+      "name": "ARexx"
+    },
+    {
+      "id": "957627e7-3fc7-4e7c-9e74-de67a49b5ea2",
+      "name": "Arc"
+    },
+    {
+      "id": "0019701b-1a73-4f7a-8c04-6fd5633dbc43",
+      "name": "Assembly language"
+    },
+    {
+      "id": "ece9666a-2375-4192-a6b5-9da0e65e94eb",
+      "name": "Argus"
+    },
+    {
+      "id": "ca5d3aff-942c-44cd-b9b3-5bf1fb86a28e",
+      "name": "AutoHotkey"
+    },
+    {
+      "id": "e7892db7-bd7a-4b76-9892-de518657fb1c",
+      "name": "Averest"
+    },
+    {
+      "id": "a23ae6d9-eb50-4cbf-a2bd-f43dae6126be",
+      "name": "AutoLISP / Visual LISP"
+    },
+    {
+      "id": "5902d869-a7fc-4979-990d-811cd661d22e",
+      "name": "AutoIt"
+    },
+    {
+      "id": "f7eaba30-5fa8-4db0-9398-a11f7b5026b0",
+      "name": "AWK"
+    },
+    {
+      "id": "bfdd9aee-fd77-4cf8-aede-6f20db8e0929",
+      "name": "B"
+    },
+    {
+      "id": "872641e7-85f3-4722-ba90-d11b9e0e585e",
+      "name": "Babbage"
+    },
+    {
+      "id": "8663d02c-1c49-4515-b72a-e15d60679262",
+      "name": "Ballerina"
+    },
+    {
+      "id": "a29e2213-ccad-4d06-833b-dc19e3981bd4",
+      "name": "Bash"
+    },
+    {
+      "id": "edf774f1-45b7-4378-973b-0c0d2b602201",
+      "name": "BASIC"
+    },
+    {
+      "id": "b72a72e9-2119-4bdc-a3df-52663e615b68",
+      "name": "Axum"
+    },
+    {
+      "id": "24b80063-6723-4059-a342-9944a0bb618f",
+      "name": "Batch file (Windows/MS-DOS)"
+    },
+    {
+      "id": "bf00142b-0812-4092-b182-e9e18754a8ad",
+      "name": "bc"
+    },
+    {
+      "id": "8c7ec0c4-0a3c-48bb-abbd-c7546c065cf0",
+      "name": "BCPL"
+    },
+    {
+      "id": "8f424498-6950-488d-8067-42aac9cef56a",
+      "name": "Bertrand"
+    },
+    {
+      "id": "472b2fd1-5c66-48d8-823b-9d7d00b75be2",
+      "name": "BeanShell"
+    },
+    {
+      "id": "bc8e9905-b28b-4e62-b1dd-c2489474c48c",
+      "name": "BETA"
+    },
+    {
+      "id": "66b648c1-6142-453f-ad76-0aff51570e4a",
+      "name": "BLISS"
+    },
+    {
+      "id": "aa4ffadd-db1f-4796-9cf7-8c5f1af34170",
+      "name": "BlooP"
+    },
+    {
+      "id": "e243251f-29af-45e4-a567-852dc3263117",
+      "name": "Blockly"
+    },
+    {
+      "id": "1e45c009-7eac-46b9-a7bc-85838c0adda1",
+      "name": "Boo"
+    },
+    {
+      "id": "aecca858-ab5c-4516-b24c-336bc9496429",
+      "name": "Boomerang"
+    },
+    {
+      "id": "a6ada66c-b1f2-406a-a7da-36882f97abbf",
+      "name": "Bosque"
+    },
+    {
+      "id": "1d15f98c-92a5-475c-aaab-2a6c70c5407b",
+      "name": "C"
+    },
+    {
+      "id": "fcbaefb3-a26c-43d0-b0a9-9264770467a1",
+      "name": "C--"
+    },
+    {
+      "id": "43a97e60-c3a5-483c-b275-aed11ff28e9c",
+      "name": "C++"
+    },
+    {
+      "id": "c2dda7a5-a926-42ae-86c0-a0dd952eb39d",
+      "name": "C#"
+    },
+    {
+      "id": "89afeafd-7ad8-48e6-80cb-e2374ab4ae07",
+      "name": "C*"
+    },
+    {
+      "id": "d91aeda2-3258-4416-bd0a-7b3946d8a79c",
+      "name": "C/AL"
+    },
+    {
+      "id": "153f1995-14a3-4c4e-986e-5b60cc41dfae",
+      "name": "C Shell (csh)"
+    },
+    {
+      "id": "07e3d343-0cc8-4cbe-9794-3bf6b74a9644",
+      "name": "Caml"
+    },
+    {
+      "id": "ab1ea3e4-29dd-439a-9f11-e143f8673743",
+      "name": "Cayenne"
+    },
+    {
+      "id": "204ec524-f5c1-4d9e-bbd4-b0ebf9ad6ffa",
+      "name": "Caché ObjectScript"
+    },
+    {
+      "id": "c698a6c5-ddcc-4431-a3da-7b7eca19a307",
+      "name": "Cecil"
+    },
+    {
+      "id": "9307fc5d-5226-4aa5-8cf0-cab8bdf9ddac",
+      "name": "Cesil"
+    },
+    {
+      "id": "19d1f8f9-b884-40aa-a004-4ced06df91e0",
+      "name": "Céu"
+    },
+    {
+      "id": "a309db4c-ed4a-49f1-bae5-607c90a217b1",
+      "name": "Ceylon"
+    },
+    {
+      "id": "1bdb703e-118d-4494-a4ee-f00da51b857a",
+      "name": "Cg"
+    },
+    {
+      "id": "39fec00f-e9df-48fc-a505-bc224e0482ed",
+      "name": "Ch"
+    },
+    {
+      "id": "36b1c317-8278-446e-9cc5-474f73e5fc8d",
+      "name": "Chicken"
+    },
+    {
+      "id": "8cebcad5-d92c-4600-8355-2606b471d9e9",
+      "name": "Chapel"
+    },
+    {
+      "id": "bd0f77cd-cab7-40ce-9d2c-fd5cd5be5b03",
+      "name": "CDuce"
+    },
+    {
+      "id": "e9c27490-9190-4ece-b7bf-6dd68284026b",
+      "name": "Charm"
+    },
+    {
+      "id": "7a2310ae-8a2a-447a-8332-0f267fb473bb",
+      "name": "CHILL"
+    },
+    {
+      "id": "704d9394-3d72-4761-89d1-4ae562893e62",
+      "name": "CHIP-8"
+    },
+    {
+      "id": "b288eec6-9d2c-449a-a4fa-92562bdd3c4f",
+      "name": "CFEngine"
+    },
+    {
+      "id": "a17cb551-68f2-4e49-a024-5d456c21fe66",
+      "name": "chomski"
+    },
+    {
+      "id": "2a9e3705-dc6b-46f8-b5be-034e44e6bba0",
+      "name": "Cilk"
+    },
+    {
+      "id": "a3136e2e-fd64-4148-a94a-e7147e8ad6ee",
+      "name": "ChucK"
+    },
+    {
+      "id": "f7041301-cbd9-4ffb-9eca-dbaf67fbd971",
+      "name": "CL"
+    },
+    {
+      "id": "0c20f620-cf65-4a47-b0a5-e988ef5ede84",
+      "name": "Clarion"
+    },
+    {
+      "id": "724a1bd9-5f18-43b5-a4f5-fbfcf6d8a804",
+      "name": "Citrine"
+    },
+    {
+      "id": "7003ff53-484b-43e1-aa53-7069771bfc92",
+      "name": "CLIPS"
+    },
+    {
+      "id": "f12d974c-e663-4f4e-bacf-0067fe8eac2e",
+      "name": "Claire"
+    },
+    {
+      "id": "fb22348e-37ca-4d15-9dd0-86d1f01318ce",
+      "name": "Clipper"
+    },
+    {
+      "id": "1e73fb22-ffc1-4f4f-b897-997f37bd3d51",
+      "name": "CLIST"
+    },
+    {
+      "id": "d61db293-0807-4dd8-ac9c-552b99b3b559",
+      "name": "Clojure"
+    },
+    {
+      "id": "973bca62-49cd-4567-ac5c-036ab2515421",
+      "name": "CLU"
+    },
+    {
+      "id": "81e4fc42-ae8b-46b0-bba4-e21913258c81",
+      "name": "CMS-2"
+    },
+    {
+      "id": "56ea0e47-693c-4b21-9357-57c80ea7ac21",
+      "name": "COBOL"
+    },
+    {
+      "id": "9bfea110-8c88-4ef5-815a-25b2acc626e7",
+      "name": "CobolScript"
+    },
+    {
+      "id": "873247ce-ed76-4d6d-aaa6-1f7d5bfe4668",
+      "name": "Clean"
+    },
+    {
+      "id": "40d8c57e-3ba1-42ac-a1d4-aa34e460b046",
+      "name": "CoffeeScript"
+    },
+    {
+      "id": "79cec654-07fd-402b-8200-c55b9ffdbe10",
+      "name": "Combined Programming Language"
+    },
+    {
+      "id": "64a75b19-ff49-470a-94cb-1dfbd8d45c27",
+      "name": "ColdFusion"
+    },
+    {
+      "id": "5494bbb3-520e-4b7c-b663-9641381ce426",
+      "name": "COMIT"
+    },
+    {
+      "id": "dda6a738-d56a-41f1-8471-967fdc37c029",
+      "name": "COMAL"
+    },
+    {
+      "id": "03e8828f-38d6-4958-907e-e42909282821",
+      "name": "Cobra"
+    },
+    {
+      "id": "0069edc3-33f6-4a3f-a502-056992eb801d",
+      "name": "Common Lisp"
+    },
+    {
+      "id": "d1f50ab7-731f-400a-aa63-ad6225372560",
+      "name": "Component Pascal"
+    },
+    {
+      "id": "e46452d3-d932-4694-be1d-bd39ade40a37",
+      "name": "COMPASS"
+    },
+    {
+      "id": "9307b397-e5aa-4344-8204-f16b45a2d693",
+      "name": "Constraint Handling Rules"
+    },
+    {
+      "id": "00db22d8-8461-4953-a745-0786a385e7a7",
+      "name": "COMTRAN"
+    },
+    {
+      "id": "33856c6d-707b-4707-af67-b95e5ff4bc93",
+      "name": "Cool"
+    },
+    {
+      "id": "dd372be2-4c84-41f2-aa3d-8af8190ae71c",
+      "name": "CPL"
+    },
+    {
+      "id": "0a737c3b-6b1c-457d-834f-b89eefcaa0f7",
+      "name": "Curry"
+    },
+    {
+      "id": "a6a780e7-cbfc-4a49-bff3-62b0a421b1de",
+      "name": "Cython"
+    },
+    {
+      "id": "eff09d1a-4e7f-4fdb-aecd-746329a4eb1b",
+      "name": "Darwin"
+    },
+    {
+      "id": "dc6ecb98-d720-4312-89b0-58354fd38070",
+      "name": "dc"
+    },
+    {
+      "id": "fd3d707b-0d72-4f14-b026-774dcabad64a",
+      "name": "DYNAMO"
+    },
+    {
+      "id": "ddb82d61-79ef-4ad8-9306-96bcc570a5ed",
+      "name": "Easy PL/I"
+    },
+    {
+      "id": "1b055379-16ed-41d5-a7c6-4a3070c529f2",
+      "name": "Coq"
+    },
+    {
+      "id": "6d51ba26-df6c-4c85-9fbd-a7028957311d",
+      "name": "Common Intermediate Language"
+    },
+    {
+      "id": "75cead60-a11e-44d2-bf13-f747d14e4981",
+      "name": "Cryptol"
+    },
+    {
+      "id": "3183df22-32f1-466f-aa43-23de2510a89c",
+      "name": "Crystal"
+    },
+    {
+      "id": "78ff845e-d160-4d63-8702-425e8b754387",
+      "name": "Curl"
+    },
+    {
+      "id": "5c87f70d-0aca-4315-af94-e8e2d574f915",
+      "name": "Cybil"
+    },
+    {
+      "id": "841814f5-15fb-45b0-b087-c48e83bbbc19",
+      "name": "CEEMAC"
+    },
+    {
+      "id": "bb43018f-55ff-47ff-a9a4-b6daae1fbe55",
+      "name": "CEEMAC"
+    },
+    {
+      "id": "cae1ae1c-e253-4843-827b-043cc5630d8f",
+      "name": "DataFlex"
+    },
+    {
+      "id": "a8dbcbc5-e42c-4119-8d31-35ee044dd0b4",
+      "name": "Datalog"
+    },
+    {
+      "id": "954e6611-d2e5-4d35-ace6-121c5e5e5821",
+      "name": "DinkC"
+    },
+    {
+      "id": "f73d6acb-c418-4b0a-a333-b1ed8304a06c",
+      "name": "DIBOL"
+    },
+    {
+      "id": "bd69c86b-3d56-4f39-8bf4-76ac112260a7",
+      "name": "Dylan"
+    },
+    {
+      "id": "f221fa3d-678d-428d-a2d9-c0d21c212243",
+      "name": "DAX (Data Analysis Expressions)"
+    },
+    {
+      "id": "a2c471bd-e941-4493-b515-af093f7dffdf",
+      "name": "Coral 66"
+    },
+    {
+      "id": "830b21c4-7a9c-4190-a078-88e2125cba3f",
+      "name": "CSS"
+    },
+    {
+      "id": "a61f53f9-1a3c-4d88-b9ed-b3235d55393e",
+      "name": "Cypher Query Language"
+    },
+    {
+      "id": "1ba1792d-7696-4728-b93c-1195a9208a8b",
+      "name": "Dart"
+    },
+    {
+      "id": "b7291743-ac2c-428a-a944-b67937f8da6d",
+      "name": "DCL"
+    },
+    {
+      "id": "8d639ccf-283b-4fa5-ac6d-2a62e4b23291",
+      "name": "DRAKON"
+    },
+    {
+      "id": "c30db3f1-c7ff-454a-834e-f5dad3c5fde7",
+      "name": "CorVision"
+    },
+    {
+      "id": "c9fce538-923b-47a0-afea-30e14f4fe9e6",
+      "name": "COWSEL"
+    },
+    {
+      "id": "e3a3fa55-60c2-41af-a22c-790d15b7d6f1",
+      "name": "Csound"
+    },
+    {
+      "id": "7f822d3e-d842-408a-b917-fdec3fb96fbd",
+      "name": "Cyclone"
+    },
+    {
+      "id": "a77aa020-d302-407b-9821-c99fa9a178aa",
+      "name": "D"
+    },
+    {
+      "id": "2ef31c7e-73a2-41d4-b9c2-fefae6baa975",
+      "name": "Cuneiform"
+    },
+    {
+      "id": "80983950-243e-4bf6-8a1a-1b961511754b",
+      "name": "DATATRIEVE"
+    },
+    {
+      "id": "b85ffcfb-c2c6-4d42-b150-ad5f1abce1de",
+      "name": "dBase"
+    },
+    {
+      "id": "865b7c34-a3c8-4685-9bd1-d281baede55c",
+      "name": "Dog"
+    },
+    {
+      "id": "06b9e39f-d322-4c40-88cb-f8205af25a4e",
+      "name": "Draco"
+    },
+    {
+      "id": "87cf3fcf-8b8a-489c-b3d2-8cc9d31f0e74",
+      "name": "E"
+    },
+    {
+      "id": "bbe3a3e0-29a1-4f55-8d50-4148d093afd5",
+      "name": "Ease"
+    },
+    {
+      "id": "e4722143-1139-4d91-b3a2-3bacd8efb93d",
+      "name": "EASYTRIEVE PLUS"
+    },
+    {
+      "id": "b65da6bb-cc03-4007-85d4-97a3ebb6b3e2",
+      "name": "EGL"
+    },
+    {
+      "id": "19d2e8b5-f381-4631-ae78-bea5dd6cec37",
+      "name": "eC"
+    },
+    {
+      "id": "6077efc5-ced4-45b3-ba49-a07fc0de8832",
+      "name": "Eiffel"
+    },
+    {
+      "id": "cdf2dc1c-f109-4ff6-b8c6-6186eb2305c2",
+      "name": "ELAN"
+    },
+    {
+      "id": "9fc8709a-0001-4b4d-9764-e2d0a4f10a43",
+      "name": "Elixir"
+    },
+    {
+      "id": "a788e621-a178-415e-95a7-b139ec045416",
+      "name": "Elm"
+    },
+    {
+      "id": "68032b7b-ff2b-4160-aea6-20c9cb63e61c",
+      "name": "Emacs Lisp"
+    },
+    {
+      "id": "f85699e1-a5af-4140-b7ef-59ff7d83ecfe",
+      "name": "Emerald"
+    },
+    {
+      "id": "4b3c61bf-5d8d-4c09-8049-11a98e3611a2",
+      "name": "Epigram"
+    },
+    {
+      "id": "1db9ccf0-900a-44f7-8167-c14a22bdd80a",
+      "name": "EPL (Easy Programming Language)"
+    },
+    {
+      "id": "daa12a62-63fb-4ef7-bd0a-3c04a0eb2b49",
+      "name": "EPL (Eltron Programming Language)"
+    },
+    {
+      "id": "6d8d5356-8c76-4125-9d06-3410e83987a8",
+      "name": "Edinburgh IMP"
+    },
+    {
+      "id": "93b8e414-8be9-4307-ae97-1b63e698a6fe",
+      "name": "Erlang"
+    },
+    {
+      "id": "f73d95be-0586-4bf1-a89d-5e9f5ab882a0",
+      "name": "ECMAScript"
+    },
+    {
+      "id": "5c306d65-22fc-4e06-9b0c-3290fddfb7e8",
+      "name": "es"
+    },
+    {
+      "id": "39f72c09-99e6-4fe3-82b8-1c4dd0c60df8",
+      "name": "Escher"
+    },
+    {
+      "id": "8e392890-8611-4bba-9a88-a158183fdc30",
+      "name": "ESPOL"
+    },
+    {
+      "id": "3dc5d964-d36e-44d4-a81c-e31e01ad2f52",
+      "name": "Esterel"
+    },
+    {
+      "id": "70425e1e-eb90-48f9-b5d2-9e61364faf86",
+      "name": "Etoys"
+    },
+    {
+      "id": "264af7ff-1b56-485a-9695-ee1364521e3f",
+      "name": "Euler"
+    },
+    {
+      "id": "f70443cb-8c1c-4a03-b32d-ac3325510cda",
+      "name": "Euphoria"
+    },
+    {
+      "id": "4a33c9d6-d14c-4f41-b393-2944c7e5af0b",
+      "name": "EusLisp Robot Programming Language"
+    },
+    {
+      "id": "dc5b92bf-bd0b-4583-8b44-486245ff8de1",
+      "name": "Euclid"
+    },
+    {
+      "id": "62e2dbb4-7555-4734-9bd1-a953e4b70ec9",
+      "name": "CMS EXEC"
+    },
+    {
+      "id": "4521619a-491e-48df-91c0-2d77cbec2f95",
+      "name": "Ezhil"
+    },
+    {
+      "id": "33677d76-2049-4fb5-b075-d33fb1977c02",
+      "name": "Executable UML"
+    },
+    {
+      "id": "f5a3c508-272f-486e-8764-62e8a1dd24b4",
+      "name": "F"
+    },
+    {
+      "id": "8eafac11-6fab-4eb6-8d89-159f1d9d5cb7",
+      "name": "F#"
+    },
+    {
+      "id": "a0219142-92a2-4463-b0c7-03c579af7ea7",
+      "name": "EXEC 2"
+    },
+    {
+      "id": "7fbb402a-6061-4dc4-9624-be283bc678c8",
+      "name": "F*"
+    },
+    {
+      "id": "8f977687-a1b6-4d9a-9c9f-705dcfabb36a",
+      "name": "Factor"
+    },
+    {
+      "id": "51267dc2-95f4-471c-a282-38c35973011d",
+      "name": "Fantom"
+    },
+    {
+      "id": "b30c9e84-3d25-409b-890d-7b777d8b3b94",
+      "name": "FAUST"
+    },
+    {
+      "id": "8e7c4147-46ef-4b92-803e-46978cbf22b1",
+      "name": "fish"
+    },
+    {
+      "id": "e319ba73-01ce-4679-94f7-364a91393312",
+      "name": "FFP"
+    },
+    {
+      "id": "6f45d61b-aa42-4d43-bec1-ccf0374ebf97",
+      "name": "Fjölnir"
+    },
+    {
+      "id": "220f84b0-6ce2-4f9a-913f-a734883136b6",
+      "name": "Flavors"
+    },
+    {
+      "id": "688f495a-837a-458e-87d5-bc1760378086",
+      "name": "FL"
+    },
+    {
+      "id": "c7b1fc14-32d0-4223-9863-1d48fc9ed4a9",
+      "name": "Flex"
+    },
+    {
+      "id": "69d24a32-0a61-4075-8e3d-006a2caeb5d3",
+      "name": "FlooP"
+    },
+    {
+      "id": "e61207b9-55ed-4a96-a7c3-851c5feaa57e",
+      "name": "FLOW-MATIC"
+    },
+    {
+      "id": "2f2dac5e-d2f2-41bd-b6b4-2060d40e7905",
+      "name": "FOCAL"
+    },
+    {
+      "id": "3754db7e-88cf-4ee8-96f5-8f4e5b129d76",
+      "name": "FOCUS"
+    },
+    {
+      "id": "6dca34bd-c8c0-41b6-8ff0-e6996aeba1b2",
+      "name": "FORMAC"
+    },
+    {
+      "id": "34afe2e7-1714-43bb-9008-528dd760c262",
+      "name": "FOIL"
+    },
+    {
+      "id": "6a5a4aa9-6757-4e20-b82f-e76a737d3823",
+      "name": "@Formula"
+    },
+    {
+      "id": "16d4b04f-d95f-4b0e-b629-3e5fca2d3f02",
+      "name": "Forth"
+    },
+    {
+      "id": "d5b99235-2e5e-4c68-8b67-adf8de38c294",
+      "name": "Fortran"
+    },
+    {
+      "id": "5fd606a9-0538-401a-a8d4-70eb0ebde4f4",
+      "name": "Fortress"
+    },
+    {
+      "id": "b0b67e64-fd3b-421d-97cd-c140b435c7c2",
+      "name": "FP"
+    },
+    {
+      "id": "2cfab328-dca1-4a75-a4e1-12d3dd9a5ea5",
+      "name": "Franz Lisp"
+    },
+    {
+      "id": "97a21465-f9d2-458e-9279-c1e829519075",
+      "name": "GAP"
+    },
+    {
+      "id": "5e2fe168-8969-4ce0-99fa-8a878e59878e",
+      "name": "GAMS"
+    },
+    {
+      "id": "bebc98c6-e7a6-408a-b8d7-8c69bfdc048e",
+      "name": "Futhark"
+    },
+    {
+      "id": "e51b0513-71da-4009-8a51-c043077db3d6",
+      "name": "Game Maker Language"
+    },
+    {
+      "id": "6d27d00f-a2b8-4248-b089-1c73a4622957",
+      "name": "G-code"
+    },
+    {
+      "id": "53096d16-1ab7-491c-afe1-c56525afde31",
+      "name": "Genie"
+    },
+    {
+      "id": "dca59f2b-131e-4117-8864-f543e7e590a3",
+      "name": "GDScript"
+    },
+    {
+      "id": "56f6b1fc-aef3-4a58-96ef-a5a3510fa43d",
+      "name": "F-Script"
+    },
+    {
+      "id": "8327ca65-1fde-417f-811d-2dfd6e3384e0",
+      "name": "GDL"
+    },
+    {
+      "id": "ce91452a-d0c2-4ff1-9da3-c5abd7f66156",
+      "name": "GNU E"
+    },
+    {
+      "id": "50eef1ae-81f5-4d4c-8ae1-26878209248f",
+      "name": "GLSL"
+    },
+    {
+      "id": "b7cdaec9-3238-475f-8ef2-3b6f291a8a91",
+      "name": "GEORGE"
+    },
+    {
+      "id": "ce69fc80-2c7b-4fef-b448-e44d1e2768fd",
+      "name": "GameMonkey Script"
+    },
+    {
+      "id": "ed7ebd1d-4a3f-4903-b36b-bb5f2f02d3bf",
+      "name": "Go"
+    },
+    {
+      "id": "a01c7a95-af4f-455e-bbd3-40d559c87624",
+      "name": "Golo"
+    },
+    {
+      "id": "4153cb5b-55fe-4836-8ff4-a6d8023e7629",
+      "name": "Go!"
+    },
+    {
+      "id": "1689e832-694d-4395-b8b9-5696d6f3f52c",
+      "name": "GOM (Good Old Mad)"
+    },
+    {
+      "id": "1d823923-11fb-479f-aa1c-18e6c38cea74",
+      "name": "Google Apps Script"
+    },
+    {
+      "id": "940abb19-299c-4cd4-8a05-d7dbdee7176d",
+      "name": "GOTRAN"
+    },
+    {
+      "id": "ad667af8-94c1-4d02-bb87-52502b141c55",
+      "name": "Gosu"
+    },
+    {
+      "id": "6e702d3d-a142-45fc-b9c6-f35123f644c9",
+      "name": "GNU Guile"
+    },
+    {
+      "id": "e163c93a-a644-4e28-b53f-c0b95399fad3",
+      "name": "GPSS"
+    },
+    {
+      "id": "0789698c-47cb-45f2-a0fc-e6f93fdba631",
+      "name": "GraphTalk"
+    },
+    {
+      "id": "cc47e590-fbd4-46fb-9ba4-caf349a755d3",
+      "name": "Grasshopper"
+    },
+    {
+      "id": "9e5e0c3a-865a-41b2-859c-1e8da1dbd076",
+      "name": "GRASS"
+    },
+    {
+      "id": "33bafac7-c788-404d-843f-b607d9851168",
+      "name": "GOAL"
+    },
+    {
+      "id": "b5a5bb8e-b737-4c61-8641-72b35274e614",
+      "name": "Hack"
+    },
+    {
+      "id": "95e4c026-b1fb-4314-8635-2689bcd0dcc8",
+      "name": "Groovy"
+    },
+    {
+      "id": "4c9c4daf-e2ab-4ccc-8c01-bde2a765018c",
+      "name": "HAL/S"
+    },
+    {
+      "id": "65cb63b7-cea1-475d-bf6f-df4589db0668",
+      "name": "HAGGIS"
+    },
+    {
+      "id": "75933953-74f9-48c0-948f-925a97c6d338",
+      "name": "Hamilton C shell"
+    },
+    {
+      "id": "e26ed597-1be6-4af7-be17-73416057fa98",
+      "name": "Harbour"
+    },
+    {
+      "id": "14933345-d49f-4a2d-a2ed-c20720d15c1e",
+      "name": "Gödel"
+    },
+    {
+      "id": "af0fadcc-e38f-4133-9451-a9c8afe565fb",
+      "name": "Haskell"
+    },
+    {
+      "id": "b5add17f-be2d-4ab0-8428-f3dd33950ba5",
+      "name": "Hartmann pipelines"
+    },
+    {
+      "id": "b0de2e64-e26d-44ec-a2db-c85a92c06183",
+      "name": "Halide (programming language)"
+    },
+    {
+      "id": "5d266f76-835a-4ae6-9213-24657724d03f",
+      "name": "Haxe"
+    },
+    {
+      "id": "480f81bf-3ae1-42e6-95fc-635a1451222f",
+      "name": "Hermes"
+    },
+    {
+      "id": "aa185a33-2874-42f4-a15a-d412ca53318b",
+      "name": "High Level Assembly"
+    },
+    {
+      "id": "cb02b585-0e96-4066-b431-36f2c128e2d7",
+      "name": "HLSL"
+    },
+    {
+      "id": "9e863c29-0939-4a41-9eec-ffa03290d11e",
+      "name": "Hollywood"
+    },
+    {
+      "id": "f25346b2-57fe-4a90-96dd-75f86ceee1a2",
+      "name": "HolyC"
+    },
+    {
+      "id": "d6d509c1-bfd6-48d4-91bf-cce1e4fbab15",
+      "name": "Hopscotch"
+    },
+    {
+      "id": "3bca5e36-a90d-4f0d-b148-01a9703d8621",
+      "name": "Hope"
+    },
+    {
+      "id": "30b087ac-e875-422a-9f29-2c00659530b6",
+      "name": "Hop"
+    },
+    {
+      "id": "ae9206fc-c847-4ba1-8ac6-db2452a5234f",
+      "name": "Hugo"
+    },
+    {
+      "id": "5bc57e45-4a08-4e68-b6bc-7ae938e1b130",
+      "name": "Hume"
+    },
+    {
+      "id": "5f8b9066-1133-4c96-b871-d519bcc24930",
+      "name": "Icon"
+    },
+    {
+      "id": "9e187b13-0a2c-4379-87ad-cb754cf475a0",
+      "name": "IBM HAScript"
+    },
+    {
+      "id": "f634e346-fcee-4eaa-8afe-faf2e065f6c8",
+      "name": "HyperTalk"
+    },
+    {
+      "id": "dcc50944-d40a-4e3e-a8c0-46c284f3cf81",
+      "name": "IBM RPG"
+    },
+    {
+      "id": "ae313bdf-299d-4cc8-a15f-a233675ace7b",
+      "name": "IBM Basic assembly language"
+    },
+    {
+      "id": "b9673f97-e120-42e8-a9ac-95a3edaec9da",
+      "name": "Idris"
+    },
+    {
+      "id": "bb45d1f4-9abe-4820-b866-dde05f83de8d",
+      "name": "Janus (concurrent constraint programming language)"
+    },
+    {
+      "id": "538d4cfc-863a-4a72-a1a7-ca6300541486",
+      "name": "JavaFX Script"
+    },
+    {
+      "id": "842b6e8d-20c0-42a7-829f-7065e309d350",
+      "name": "IBM Informix-4GL"
+    },
+    {
+      "id": "50a30368-07ea-4475-9aca-b92431f4bad9",
+      "name": "J"
+    },
+    {
+      "id": "1855a445-bc28-4d6c-94e8-a1b760ca4371",
+      "name": "JAL"
+    },
+    {
+      "id": "fc255b3a-5f83-4217-8e2d-647aa2e7a4ee",
+      "name": "Java"
+    },
+    {
+      "id": "f7128212-31b1-47b2-933d-1d7fa3aadd6b",
+      "name": "JOSS"
+    },
+    {
+      "id": "c06cf65a-6899-4d66-b33d-67d938b04d22",
+      "name": "JScript .NET"
+    },
+    {
+      "id": "891b891b-a611-42b8-bfc3-1d03ace6468d",
+      "name": "KEE"
+    },
+    {
+      "id": "5f97f738-5b90-4d33-9fd4-07bc23101852",
+      "name": "KRC"
+    },
+    {
+      "id": "1c11537e-003e-4c02-afcb-30df21f2a960",
+      "name": "Kodu"
+    },
+    {
+      "id": "67969067-bf77-44be-9747-ddb8ab947ed8",
+      "name": "Lasso"
+    },
+    {
+      "id": "51c81df1-b9d3-481d-bbcc-ac9827628dae",
+      "name": "Limbo"
+    },
+    {
+      "id": "7c65ce09-8364-4810-83d3-b0acb9595709",
+      "name": "Lingo"
+    },
+    {
+      "id": "a00fd721-8aa6-4ee0-b07f-1fbb24297ab5",
+      "name": "IDL"
+    },
+    {
+      "id": "23c943f6-7d99-4aa3-80ca-6b071c022ab5",
+      "name": "J++"
+    },
+    {
+      "id": "9d45f83a-426a-446c-a180-380eeca45b89",
+      "name": "Inform"
+    },
+    {
+      "id": "fcdd3970-2f11-4a76-98de-dc7391d48132",
+      "name": "JADE"
+    },
+    {
+      "id": "0463caaa-b265-4bad-877d-f92fc0b5e2d7",
+      "name": "JASS"
+    },
+    {
+      "id": "eef9f221-501e-4591-8c51-cde414046189",
+      "name": "JEAN"
+    },
+    {
+      "id": "0b0265db-0659-42e2-af89-6c4812d4097f",
+      "name": "Joy"
+    },
+    {
+      "id": "a905a2c8-cd97-4f42-a833-eb11eda0a00a",
+      "name": "K"
+    },
+    {
+      "id": "c02174e8-c575-40e1-817b-a0777a64cca9",
+      "name": "J#"
+    },
+    {
+      "id": "3b12994b-d742-4cc8-9a80-8eb538df3a73",
+      "name": "Io"
+    },
+    {
+      "id": "69a07844-502a-4ea5-92c9-274123a673b9",
+      "name": "Janus (time-reversible computing programming language)"
+    },
+    {
+      "id": "c423434c-51d3-47c2-bd41-7f433fc7c539",
+      "name": "JavaScript"
+    },
+    {
+      "id": "a3698827-8989-4039-a587-a3ff8908ba05",
+      "name": "Jess (programming language)"
+    },
+    {
+      "id": "e215ae42-d144-4125-aef8-f080ec607546",
+      "name": "Join Java"
+    },
+    {
+      "id": "14640037-668c-41ae-93ea-cd3457f746cf",
+      "name": "JCL"
+    },
+    {
+      "id": "70a97a9f-1ea9-4556-9498-190cad9868f1",
+      "name": "JOVIAL"
+    },
+    {
+      "id": "2f03ddaf-eed6-4ded-869c-8f23b3f4890c",
+      "name": "Joule"
+    },
+    {
+      "id": "ac3b9c76-91ef-4747-8a9c-2b25c5aa6a6a",
+      "name": "JScript"
+    },
+    {
+      "id": "90c493ea-3740-4937-8efc-93f37b045fab",
+      "name": "Karel"
+    },
+    {
+      "id": "b9cc6d20-7f1a-4dca-9fd3-4ee584393eee",
+      "name": "Kaleidoscope"
+    },
+    {
+      "id": "4b95c60b-530f-4118-8b07-a9a86c76ec65",
+      "name": "Jython"
+    },
+    {
+      "id": "20ab616a-01cd-4790-9463-f578175c9cdb",
+      "name": "Julia"
+    },
+    {
+      "id": "51aad663-c424-4e45-8c5d-d9e373cbde01",
+      "name": "Kixtart"
+    },
+    {
+      "id": "8af3988d-f004-4398-961b-0af9aae09f39",
+      "name": "Klerer-May System"
+    },
+    {
+      "id": "d81a2d3e-7f18-4ed7-afad-b66043958523",
+      "name": "Kotlin"
+    },
+    {
+      "id": "57e78f52-be83-4a8c-98c1-049a722f3bd4",
+      "name": "Kojo"
+    },
+    {
+      "id": "6d430906-86dd-4153-abf6-1c407bda91ec",
+      "name": "KIF"
+    },
+    {
+      "id": "4018468b-bc5a-44bf-8baf-acd46bb8af49",
+      "name": "KRL"
+    },
+    {
+      "id": "cada4a23-f702-4134-a674-016ef1980f4a",
+      "name": "KUKA Robot Language"
+    },
+    {
+      "id": "46cf3067-2970-4def-8d23-71034b806baf",
+      "name": "KRYPTON"
+    },
+    {
+      "id": "d727f4af-936c-467d-af35-45bdca016e09",
+      "name": "Ladder"
+    },
+    {
+      "id": "27210d3e-75f1-4abe-bd72-5bbd6b30ae2e",
+      "name": "LANSA"
+    },
+    {
+      "id": "9acefafc-048b-48ad-bf5b-151e49b9d26b",
+      "name": "Korn shell (ksh)"
+    },
+    {
+      "id": "cfd7d3f1-b9e1-409f-84ae-a2ff899720ce",
+      "name": "Kv"
+    },
+    {
+      "id": "dfc59cfe-6f03-4632-a6a2-1274457ce12d",
+      "name": "LabVIEW"
+    },
+    {
+      "id": "10c839cf-a777-4457-a3a9-968edba87fbf",
+      "name": "Lava"
+    },
+    {
+      "id": "718cf013-034f-484a-a198-1a565b42e7b4",
+      "name": "Limnor"
+    },
+    {
+      "id": "ab2202c9-9aba-4f11-92d0-abc39149411e",
+      "name": "LC-3"
+    },
+    {
+      "id": "859a76ee-ea76-4105-81ff-7848028755d4",
+      "name": "LINC"
+    },
+    {
+      "id": "bd6788c4-b1d7-4e84-94b1-a011553d3e7d",
+      "name": "Legoscript"
+    },
+    {
+      "id": "ef02df71-3175-480f-964e-129df9ea167b",
+      "name": "LINQ"
+    },
+    {
+      "id": "0a106a02-d188-4129-a888-42208ab0545a",
+      "name": "LIS"
+    },
+    {
+      "id": "ee4ec554-0ae6-4c72-b3de-e635dd10c5c3",
+      "name": "LISA"
+    },
+    {
+      "id": "7052942f-ce44-42fd-8457-571c33481fdd",
+      "name": "Lisp"
+    },
+    {
+      "id": "c51e3ce2-c518-49a2-9d55-9e899e6ee026",
+      "name": "Lite-C"
+    },
+    {
+      "id": "d19ecdec-e66f-410d-8335-94dd993bb67d",
+      "name": "Lithe"
+    },
+    {
+      "id": "baeda2f8-b2a9-4172-85f3-adf220f1d9dc",
+      "name": "LLL"
+    },
+    {
+      "id": "aa7dfaa0-1a61-496c-bd19-01286ade3f5d",
+      "name": "Little b"
+    },
+    {
+      "id": "8ba999b1-162c-421a-ae8c-830f41005926",
+      "name": "Language H"
+    },
+    {
+      "id": "be069afb-049e-47f6-8a5d-b09c4e9d2775",
+      "name": "Logtalk"
+    },
+    {
+      "id": "b47395e1-6f74-442e-b473-0f982a03ed42",
+      "name": "Logo"
+    },
+    {
+      "id": "6b41a1b5-6e00-4049-a512-18d5bf547ce7",
+      "name": "LotusScript"
+    },
+    {
+      "id": "2995fd78-7f54-4da2-ace7-d9c35522a4d9",
+      "name": "LIL"
+    },
+    {
+      "id": "2372b97e-e167-4722-a6c7-442474897afb",
+      "name": "LSE"
+    },
+    {
+      "id": "dc37b8f9-66ae-4790-a2dc-014579af2560",
+      "name": "LPC"
+    },
+    {
+      "id": "7281aa4e-57ab-4682-a7f4-d8a31671c3db",
+      "name": "LilyPond"
+    },
+    {
+      "id": "4bf57a0a-944c-4329-ab23-b60cb4d8ddcd",
+      "name": "LSL"
+    },
+    {
+      "id": "44320a41-7bf8-4bd3-b23b-9bc32a803292",
+      "name": "LiveCode"
+    },
+    {
+      "id": "658dfc63-f6c6-431b-bf1d-c2143f40c540",
+      "name": "LiveScript"
+    },
+    {
+      "id": "300103d5-6dc2-4c54-af2b-c5abea93da93",
+      "name": "Lua"
+    },
+    {
+      "id": "efec6510-979c-409b-943b-5c3a6f4508db",
+      "name": "Lucid"
+    },
+    {
+      "id": "20476533-aa26-40d5-9e0e-e675e072de19",
+      "name": "LYaPAS"
+    },
+    {
+      "id": "e1f3d78a-1ac3-4302-a02b-b6b5c25647be",
+      "name": "Lynx"
+    },
+    {
+      "id": "68f8d6c7-870a-402b-86df-e32f41fdbceb",
+      "name": "Lustre"
+    },
+    {
+      "id": "47d7dfd3-e8b1-47e9-bdd4-47df5e15b0be",
+      "name": "M2001"
+    },
+    {
+      "id": "0b7a4762-2952-4316-8d97-1af419f574f3",
+      "name": "M4"
+    },
+    {
+      "id": "d85d5ee2-eb0b-489b-8b13-aaf2e9419553",
+      "name": "MAD"
+    },
+    {
+      "id": "c2826dde-47e1-4dcc-9570-38f800ef8e5e",
+      "name": "M#"
+    },
+    {
+      "id": "ea2f67c8-5d86-4896-8380-f4aef4f1bf5f",
+      "name": "Machine code"
+    },
+    {
+      "id": "d31a5afd-376c-489a-8f91-3bb4c1cca22e",
+      "name": "MAD/I"
+    },
+    {
+      "id": "e22d4c34-afb9-4e21-bd71-7b9f6d3d605b",
+      "name": "Magik"
+    },
+    {
+      "id": "5cbc997e-4f43-4107-ad03-c4d2f9307556",
+      "name": "Máni"
+    },
+    {
+      "id": "66ab39ce-83ea-45da-89d9-6271e326a4e9",
+      "name": "Magma"
+    },
+    {
+      "id": "e567d2dd-eb95-49a2-a36b-485239c3f7d2",
+      "name": "Maple"
+    },
+    {
+      "id": "e9a5c7cb-c9d1-4b83-abcc-2aa16510aa92",
+      "name": "Mary"
+    },
+    {
+      "id": "694e6dda-1d84-46e1-b23e-111cabea0d54",
+      "name": "MAPPER"
+    },
+    {
+      "id": "6a7f0f25-0b0d-4326-b487-ea3779aa3525",
+      "name": "MARK-IV"
+    },
+    {
+      "id": "5d74d05c-8ecd-455c-b546-680e962c615b",
+      "name": "MATLAB"
+    },
+    {
+      "id": "249bf100-b23b-43d3-a07d-24ac67a45245",
+      "name": "MASM Microsoft Assembly x86"
+    },
+    {
+      "id": "f5b7f743-ee7d-4492-b5ae-ebbbd39fb22b",
+      "name": "Maude system"
+    },
+    {
+      "id": "3a0032a2-db2b-4722-8e01-4a2a46db44b6",
+      "name": "MATH-MATIC"
+    },
+    {
+      "id": "998fb23b-2830-4be7-97eb-7a9bf087dafd",
+      "name": "Maxima"
+    },
+    {
+      "id": "7bf86050-65c0-433e-af11-ddbce2f6dcd7",
+      "name": "MaxScript"
+    },
+    {
+      "id": "efb98756-8004-41ce-8099-b7f353648aa9",
+      "name": "Maya (MEL)"
+    },
+    {
+      "id": "d8f57ec1-ea41-48b5-afda-e908377a824e",
+      "name": "Max"
+    },
+    {
+      "id": "cfd0185a-f9d8-47e8-beef-72d496d037a9",
+      "name": "Mercury"
+    },
+    {
+      "id": "420e3f71-8d48-416f-b2c1-36c205c6a1ba",
+      "name": "Mesa"
+    },
+    {
+      "id": "c99efda2-efc1-4a19-b3c1-8e015d6b7620",
+      "name": "Metafont"
+    },
+    {
+      "id": "3b61600a-e520-448f-a147-ae92453e5146",
+      "name": "Microcode"
+    },
+    {
+      "id": "e2ca40b3-a8b0-412d-bba7-813daa73ef3f",
+      "name": "MicroScript"
+    },
+    {
+      "id": "a24a238e-025d-47d9-b4ce-20ececdd4b9c",
+      "name": "MDL"
+    },
+    {
+      "id": "b14c7b4d-38fa-41b2-8a35-8bf169c4f94d",
+      "name": "MHEG-5 (Interactive TV programming language)"
+    },
+    {
+      "id": "dabb4922-f5cc-4c2b-8329-40244133be32",
+      "name": "MIIS"
+    },
+    {
+      "id": "c264c5e7-763e-4346-ba17-1c4e3826dac2",
+      "name": "Milk (programming language)"
+    },
+    {
+      "id": "51d7a77c-b1e8-4f2c-852d-8cfc69f2633e",
+      "name": "MIMIC"
+    },
+    {
+      "id": "e9d54964-0c91-4c1f-9a41-42e1417faed4",
+      "name": "Mirah"
+    },
+    {
+      "id": "9ff44cb1-9427-4e86-b96f-d0171734dd47",
+      "name": "MIVA Script"
+    },
+    {
+      "id": "2c423743-09c6-45f9-990b-f33324a4f51f",
+      "name": "Miranda"
+    },
+    {
+      "id": "d366df93-97b7-4f2e-9982-de121406b953",
+      "name": "ML"
+    },
+    {
+      "id": "3a5a152a-9b3a-47c4-b3ca-88bd6da2b284",
+      "name": "Model 204"
+    },
+    {
+      "id": "72d2d09c-936b-4188-aaca-483953f285ba",
+      "name": "Modelica"
+    },
+    {
+      "id": "64c27ef4-4f9b-4749-b219-6a5533c01dea",
+      "name": "Modula-2"
+    },
+    {
+      "id": "1d5cfdf2-9f57-45b2-ad86-024d373b5d98",
+      "name": "Modula"
+    },
+    {
+      "id": "b5a95fea-b2da-4687-ba7b-19df5e2e7804",
+      "name": "Modula-3"
+    },
+    {
+      "id": "fbc702ca-240c-4446-b497-f13c43bd2233",
+      "name": "Mohol"
+    },
+    {
+      "id": "9d45bcfa-2317-4c6c-a2d9-f6c8810d9974",
+      "name": "Mortran"
+    },
+    {
+      "id": "adb636c3-9242-40aa-9339-fda6e1a0c025",
+      "name": "MOO"
+    },
+    {
+      "id": "1ce555d5-6a30-4836-80fc-cf6770ece536",
+      "name": "MSL"
+    },
+    {
+      "id": "fca0423b-87e3-49b0-8544-b1a461598a97",
+      "name": "MuPAD"
+    },
+    {
+      "id": "8d087e2d-1397-4727-8522-aafc5cc9c18c",
+      "name": "MUMPS"
+    },
+    {
+      "id": "c4475947-b6d9-4e04-bff7-9edd1cb4503d",
+      "name": "Mystic Programming Language"
+    },
+    {
+      "id": "06425ff2-d70e-4e2e-b71d-131e09d5e0c6",
+      "name": "MPD"
+    },
+    {
+      "id": "3cc49c66-1ebc-4213-a1b9-0d9d153607f9",
+      "name": "NASM"
+    },
+    {
+      "id": "fbd229e4-c984-4e57-8559-b5748b07b8ee",
+      "name": "Neko"
+    },
+    {
+      "id": "7de3e020-d8e9-444c-8850-943871e3510f",
+      "name": "Mouse"
+    },
+    {
+      "id": "39db6004-cb59-44ed-b9ca-dab77eb70355",
+      "name": "Napier88"
+    },
+    {
+      "id": "6a5832ac-d50c-4053-9209-720d01822ea0",
+      "name": "Net.Data"
+    },
+    {
+      "id": "4da9033b-6329-459f-be5d-59774455f8e0",
+      "name": "NetLogo"
+    },
+    {
+      "id": "26efd959-71db-44c6-acc6-fd8d31b15fe0",
+      "name": "Mutan"
+    },
+    {
+      "id": "62a033d7-92f4-4ba3-9ef6-cfab57108d92",
+      "name": "NetRexx"
+    },
+    {
+      "id": "73698424-9b29-4717-aab8-2ecb22fc9e67",
+      "name": "NewLISP"
+    },
+    {
+      "id": "aca9f81c-5d13-4710-af53-6546a63f8c0b",
+      "name": "NEWP"
+    },
+    {
+      "id": "ef07b8b2-237a-4831-aada-8ea0f68603b6",
+      "name": "Nemerle"
+    },
+    {
+      "id": "f760bf18-94d9-4157-8f9e-07a04ec1c466",
+      "name": "Nice"
+    },
+    {
+      "id": "da9b0849-8732-487a-baec-8bec63ce1d2c",
+      "name": "Nickle"
+    },
+    {
+      "id": "9f7679df-5797-4538-b49f-91dd6e5e26c7",
+      "name": "Nix (Systems configuration language)"
+    },
+    {
+      "id": "232cc841-b3f5-4d9e-9d61-20b01dc0dc96",
+      "name": "Not eXactly C"
+    },
+    {
+      "id": "c3360fc4-4f43-4edf-a02a-271d193810a8",
+      "name": "Not Quite C"
+    },
+    {
+      "id": "29b28c96-ec99-4800-962f-9da27c412295",
+      "name": "Newspeak"
+    },
+    {
+      "id": "40f01442-789c-4bcf-9d48-efda29598870",
+      "name": "Nim"
+    },
+    {
+      "id": "d2e42ec8-e2f0-4a68-9fc8-3e72824eae59",
+      "name": "NXT-G"
+    },
+    {
+      "id": "c19044de-88c0-41e8-90f6-4afeb86af7a9",
+      "name": "OBJ2"
+    },
+    {
+      "id": "7224f74e-fe2c-4151-8c32-ee2e80c71fb7",
+      "name": "ObjectLOGO"
+    },
+    {
+      "id": "04081d64-c210-4217-a735-2e4c473003a1",
+      "name": "Object Pascal"
+    },
+    {
+      "id": "9cd7795a-4e78-47cc-991e-3fb171c4b86a",
+      "name": "occam-π"
+    },
+    {
+      "id": "48c68fc4-31c7-42d6-bac8-d3020f291b36",
+      "name": "OpenEdge ABL"
+    },
+    {
+      "id": "3af8c704-b5c9-46f3-b870-dd50b0a2f032",
+      "name": "OPS5"
+    },
+    {
+      "id": "3e30870e-f7e8-46f8-9301-4434c6fc7c29",
+      "name": "Orwell"
+    },
+    {
+      "id": "1f73f44d-1bbd-4de8-9486-b99a10cabcd6",
+      "name": "Nial"
+    },
+    {
+      "id": "132e9a23-bd7e-4d0d-8f05-51b9ba230514",
+      "name": "NPL"
+    },
+    {
+      "id": "c46d7042-cf99-4ca6-a875-07a29c01f203",
+      "name": "NWScript"
+    },
+    {
+      "id": "b637404b-5353-404d-ad0b-11870d2a91db",
+      "name": "Oberon"
+    },
+    {
+      "id": "dee2b82c-68e3-4a0f-9e1d-c41d927e63f6",
+      "name": "Object Lisp"
+    },
+    {
+      "id": "3d44e1be-aeef-4ecd-9e10-a661d85ca9ad",
+      "name": "Object REXX"
+    },
+    {
+      "id": "f69927b2-0ef6-4de9-9979-30f6e146e6f8",
+      "name": "occam"
+    },
+    {
+      "id": "68efad44-afd7-4825-9d85-4b54bccb4ae6",
+      "name": "Opal"
+    },
+    {
+      "id": "cbeb45b2-7a60-44e3-8572-c3aa036ac893",
+      "name": "OpenVera"
+    },
+    {
+      "id": "d747ef5d-0114-492d-8438-173ebe0d8510",
+      "name": "Oriel"
+    },
+    {
+      "id": "b472111e-db39-4d7f-b0b9-a5829a011cb7",
+      "name": "P4"
+    },
+    {
+      "id": "d27aaf88-b96a-4cfa-81ee-7eb9a834287d",
+      "name": "Pascal Script"
+    },
+    {
+      "id": "e2f0251d-fce2-4aff-b770-7e4944017d87",
+      "name": "PEARL"
+    },
+    {
+      "id": "1ff7b36b-8f1e-4a2e-83aa-6645df0a0d67",
+      "name": "Pharo"
+    },
+    {
+      "id": "e18a0440-5887-44cc-aca7-8bd48f9f6314",
+      "name": "Pig (programming tool)"
+    },
+    {
+      "id": "992aad5a-f5e8-43fa-ae5d-37bc0da5d7dd",
+      "name": "PL/B"
+    },
+    {
+      "id": "453efd28-1aca-407b-99ab-34b3c93698d3",
+      "name": "PL/SQL"
+    },
+    {
+      "id": "97e8760b-15bd-47fe-a97a-ce5c5b48eedd",
+      "name": "Planner"
+    },
+    {
+      "id": "11a58954-f032-448a-8fff-c46773d98ad9",
+      "name": "PortablE"
+    },
+    {
+      "id": "8ddfed14-1e41-40df-b9bb-3c1db95bf965",
+      "name": "Processing"
+    },
+    {
+      "id": "d5a6d93c-ba82-4ac2-9fb5-908b1b32afbe",
+      "name": "Prolog"
+    },
+    {
+      "id": "626574ce-642c-4631-aae1-b93a2662bf5b",
+      "name": "ProvideX"
+    },
+    {
+      "id": "ccf129be-04cb-4458-94ad-64b8ac724cf7",
+      "name": "NewtonScript"
+    },
+    {
+      "id": "e90405f7-2389-4e22-baf9-8f98920fab58",
+      "name": "NESL"
+    },
+    {
+      "id": "764a2653-bf7f-418d-bcb9-c81022013b3a",
+      "name": "Oak"
+    },
+    {
+      "id": "f3db55d3-397a-4f0b-a8a8-0c3166315bb3",
+      "name": "NSIS"
+    },
+    {
+      "id": "4edebe1e-f55a-4a1f-aa29-25a1f4b9c688",
+      "name": "Nu"
+    },
+    {
+      "id": "2b35c566-f1f5-45e4-9c47-380c53c79c6e",
+      "name": "o:XML"
+    },
+    {
+      "id": "a368cc00-5973-431d-9e79-6b5232831fba",
+      "name": "Objective-C"
+    },
+    {
+      "id": "a5755dc3-e549-4f5e-b13b-66ef98d89e68",
+      "name": "Objective-J"
+    },
+    {
+      "id": "5d60effb-f5b7-403b-a6b4-7563c897fadd",
+      "name": "Obliq"
+    },
+    {
+      "id": "1ad60b5b-172d-446f-b7c6-451b4e4e16c8",
+      "name": "OCaml"
+    },
+    {
+      "id": "c8b21b1a-c652-4ed5-842e-5a32c7d96a7a",
+      "name": "Octave"
+    },
+    {
+      "id": "edc98596-743e-444d-b1a9-d611e2f0fa37",
+      "name": "OpenCL"
+    },
+    {
+      "id": "b95d4d5c-eef7-430d-9545-aa0b7e45d7ff",
+      "name": "Opa"
+    },
+    {
+      "id": "3a58d67d-9450-4555-bad9-28f76f5d3301",
+      "name": "OmniMark"
+    },
+    {
+      "id": "2b0eebe9-e287-4140-8af1-4002be881f13",
+      "name": "OPL"
+    },
+    {
+      "id": "6d6a1b6e-b279-4db6-84a0-768f3e0c2302",
+      "name": "OptimJ"
+    },
+    {
+      "id": "831c82f8-b10a-4ab0-8a71-ea2774f718b6",
+      "name": "ORCA/Modula-2"
+    },
+    {
+      "id": "e417626c-af0d-486c-b7a7-35e5bedbc509",
+      "name": "Orc"
+    },
+    {
+      "id": "0f907855-d4d0-43af-8b57-46ca92597290",
+      "name": "Oxygene"
+    },
+    {
+      "id": "75513e2b-66a8-4173-bbee-83f8ac8dfd08",
+      "name": "Oz"
+    },
+    {
+      "id": "b491127d-36f3-492d-b533-4b15c2683770",
+      "name": "P"
+    },
+    {
+      "id": "faa474a7-6832-4182-824d-3344f53eebe8",
+      "name": "PARI/GP"
+    },
+    {
+      "id": "9375cc67-e279-46db-a1a9-6376ec7f29fc",
+      "name": "PCF"
+    },
+    {
+      "id": "f0433464-fade-4bec-adf0-44f34fe3d8a3",
+      "name": "PCASTL"
+    },
+    {
+      "id": "f3305cfa-8485-4962-af90-5d9760c9f09e",
+      "name": "ParaSail (programming language)"
+    },
+    {
+      "id": "8620088b-9acd-4858-9539-2e1f6810b3d0",
+      "name": "PeopleCode"
+    },
+    {
+      "id": "8388ccf2-5d0c-4f39-be49-ec5e738e2f6f",
+      "name": "P′′"
+    },
+    {
+      "id": "ec58ad54-9a96-41f5-8728-dec7f3f553d3",
+      "name": "Perl"
+    },
+    {
+      "id": "ac7c4e8c-8f84-4d6b-900b-f3c8333420b6",
+      "name": "PDL"
+    },
+    {
+      "id": "fbdb379f-09cb-434e-bb3c-516d8a0bcbb9",
+      "name": "PHP"
+    },
+    {
+      "id": "fbc01a0d-381a-42f6-8abe-b997f4394f62",
+      "name": "Pascal"
+    },
+    {
+      "id": "4671e524-ced7-4313-a49b-1924f91ecb88",
+      "name": "Pico"
+    },
+    {
+      "id": "b1efaaf1-76a7-409c-8988-92633ca7fe89",
+      "name": "Picolisp"
+    },
+    {
+      "id": "1e7d9e54-b1c9-4f1d-93ba-a66647f1ee40",
+      "name": "Pict"
+    },
+    {
+      "id": "9b47d693-5d08-4e1e-8ecf-c566d0cbdc12",
+      "name": "Pike"
+    },
+    {
+      "id": "4998edd5-4028-4305-9eec-3dbaafde99f6",
+      "name": "PILOT"
+    },
+    {
+      "id": "7a0aa028-2bd9-4683-b375-7f96b2930b9b",
+      "name": "Pipelines"
+    },
+    {
+      "id": "44a6376e-d9fb-45cb-917a-60d374840688",
+      "name": "Pizza"
+    },
+    {
+      "id": "ecb405fa-630c-47a5-a7cf-ee5d1e005871",
+      "name": "PL-11"
+    },
+    {
+      "id": "5103b849-2bcb-43ab-9b42-d3e0275bd1bd",
+      "name": "PL/0"
+    },
+    {
+      "id": "d24943bb-6e0c-4909-a0ec-e6913fec2efb",
+      "name": "PL/C"
+    },
+    {
+      "id": "f114f451-09b4-4d54-850f-4fda360cd9bd",
+      "name": "PL/M"
+    },
+    {
+      "id": "c6356129-194c-4f6e-860a-fb26e53f4a12",
+      "name": "PL/I"
+    },
+    {
+      "id": "8cf49dd6-4952-4958-a7db-253da491caa7",
+      "name": "PL/P"
+    },
+    {
+      "id": "161f85c1-83ed-4cf2-b7c0-ca3a46b3a2a2",
+      "name": "PL360"
+    },
+    {
+      "id": "fcc3cb0a-71a6-4e95-b14f-81365dc3fb01",
+      "name": "PLANC"
+    },
+    {
+      "id": "025a69d5-367d-4507-aaed-8e3fe3c1afe3",
+      "name": "Plankalkül"
+    },
+    {
+      "id": "7987f315-352d-4387-80ec-d1dd3f44d898",
+      "name": "Plus"
+    },
+    {
+      "id": "482d2ffc-f910-4181-8f2a-ba0878bff876",
+      "name": "PLEXIL"
+    },
+    {
+      "id": "bc80f9f6-6c0f-4f8a-a603-950fa0e049ef",
+      "name": "PLEX"
+    },
+    {
+      "id": "9db94482-02a2-4c4b-80ab-2bd136bb4c50",
+      "name": "POP-11"
+    },
+    {
+      "id": "30f3f9d0-f603-4f0a-9866-005f79993a99",
+      "name": "POP-2"
+    },
+    {
+      "id": "006af3b2-0d7b-4251-9960-a1c5384c14b7",
+      "name": "PostScript"
+    },
+    {
+      "id": "2bbd6c44-7827-472b-aaf0-0889cc8e9690",
+      "name": "Powerhouse"
+    },
+    {
+      "id": "7ff4fc7a-d449-4b5b-96ac-02d68810a295",
+      "name": "PowerShell"
+    },
+    {
+      "id": "0a82f43b-6b6f-44cd-ae57-dab205e08872",
+      "name": "PPL"
+    },
+    {
+      "id": "3c1029fb-fe4a-40c9-a5e0-36b86804e9eb",
+      "name": "PowerBuilder"
+    },
+    {
+      "id": "d1d18351-d643-4a7e-9880-4f291291d6f5",
+      "name": "POV-Ray SDL"
+    },
+    {
+      "id": "c3ba0bb5-f90f-4e9a-8678-fb7355c268b0",
+      "name": "Processing.js"
+    },
+    {
+      "id": "d65300fa-afae-4b1a-9fbf-42cbab21dc31",
+      "name": "PROIV"
+    },
+    {
+      "id": "dc62cc69-b267-420f-b4dc-5e5a1c3e0252",
+      "name": "Prograph"
+    },
+    {
+      "id": "30a53c80-1135-47cc-9738-7abbf06a03b9",
+      "name": "PROMAL"
+    },
+    {
+      "id": "6e4cfebd-e15a-4046-bccd-c40914b33a8c",
+      "name": "Promela"
+    },
+    {
+      "id": "58134ad7-2b51-4af9-99dd-9cefc468e510",
+      "name": "PROSE modeling language"
+    },
+    {
+      "id": "f1a3ac0f-7eba-420c-9b59-04756d23eb78",
+      "name": "PROTEL"
+    },
+    {
+      "id": "7534429c-3295-477e-a87b-f12bd08cd69e",
+      "name": "Pure Data"
+    },
+    {
+      "id": "3f6dc89c-67ab-4200-a24a-a8371ff0194e",
+      "name": "PureScript"
+    },
+    {
+      "id": "358bfe07-34a1-4bab-94f8-17d46e1d6066",
+      "name": "Pro*C"
+    },
+    {
+      "id": "80e31eac-53a0-4bbf-baff-7ded36faee1f",
+      "name": "Pure"
+    },
+    {
+      "id": "1a12c112-5d15-47c4-9e2c-f51e7aef403f",
+      "name": "Q# (Microsoft programming language)"
+    },
+    {
+      "id": "7668d898-c778-4f6e-8110-27362c4d1244",
+      "name": "Qalb"
+    },
+    {
+      "id": "4d46bac6-556f-4d33-bda8-d35d529d1f4f",
+      "name": "Quantum Computation Language"
+    },
+    {
+      "id": "89d8ed53-ebbc-431f-af42-aba92afc29ea",
+      "name": "QtScript"
+    },
+    {
+      "id": "0c442613-3569-44f4-8422-798045193083",
+      "name": "QuakeC"
+    },
+    {
+      "id": "367cfc23-1678-4f78-8f8f-c8c5e37f1c92",
+      "name": "QPL"
+    },
+    {
+      "id": "dfb1517a-1baa-4784-9306-fae823ae0968",
+      "name": "Q (programming language from Kx Systems)"
+    },
+    {
+      "id": "f1314885-87fb-4837-b37e-4ed7d8a4177f",
+      "name": "Python"
+    },
+    {
+      "id": "c87f084d-a4f4-428a-b9b5-a310cfe5e879",
+      "name": ".QL"
+    },
+    {
+      "id": "5311bcc2-67b2-4515-8a21-3309ba453474",
+      "name": "R"
+    },
+    {
+      "id": "382cc16e-060f-4afd-ae85-4c0b0202028b",
+      "name": "R++"
+    },
+    {
+      "id": "d1cec3b4-b146-4ec4-98b1-be2751ca837e",
+      "name": "Racket"
+    },
+    {
+      "id": "c402d471-4a8d-4ad4-99ba-c71042805cff",
+      "name": "RAPID"
+    },
+    {
+      "id": "2f6e89a7-e3ff-4243-9c91-8f8e68b051df",
+      "name": "Raku"
+    },
+    {
+      "id": "19709771-bb1d-4efd-bbf0-bcbdc0e3250e",
+      "name": "Rapira"
+    },
+    {
+      "id": "f8bb6a19-d1a8-4c8c-8856-02a2984ce92b",
+      "name": "Ratfiv"
+    },
+    {
+      "id": "26a6a4b3-63de-41c1-a19a-90daad6a134f",
+      "name": "Ratfor"
+    },
+    {
+      "id": "77f62738-77fb-48dd-85f2-d9959b0cc770",
+      "name": "Reason"
+    },
+    {
+      "id": "9926df02-ade2-4e03-9f46-5a2ed2d543ce",
+      "name": "Redcode"
+    },
+    {
+      "id": "bd3ad58c-efa9-4111-834d-c6bf166b687a",
+      "name": "REBOL"
+    },
+    {
+      "id": "d678e99e-1ccd-4e0f-be8f-42671b3654aa",
+      "name": "Red"
+    },
+    {
+      "id": "c30e8dfb-92e3-4370-907b-2f4242e71f67",
+      "name": "rc"
+    },
+    {
+      "id": "2fa8f600-549e-4f59-932e-8ba757d9f495",
+      "name": "REFAL"
+    },
+    {
+      "id": "ea5faea9-97fc-42eb-88d6-3ce44c025e0a",
+      "name": "REXX"
+    },
+    {
+      "id": "bd33e2ad-e799-4fa2-8363-e04dab41f69e",
+      "name": "Rittle"
+    },
+    {
+      "id": "1645df47-faa3-4178-89b9-0e3e4af471cc",
+      "name": "Rlab"
+    },
+    {
+      "id": "068b3b8d-5c0c-4c9e-a6d0-af0930b6aa05",
+      "name": "ROOP"
+    },
+    {
+      "id": "9d9a6fd7-e2aa-47a8-9fb6-eb8b4f213138",
+      "name": "RSL"
+    },
+    {
+      "id": "1e903c2c-0dc7-4c8d-b31e-a3a4ed467a68",
+      "name": "RTL/2"
+    },
+    {
+      "id": "9b1b3744-d7fd-42f0-858d-d0f4d6276dc9",
+      "name": "RPG"
+    },
+    {
+      "id": "1b5dd64b-2cd5-495f-a581-442458f5e1e3",
+      "name": "Ruby"
+    },
+    {
+      "id": "b5ffae50-338e-48fa-bbc2-9e2b081c37bc",
+      "name": "Rust"
+    },
+    {
+      "id": "9af01831-1f51-4ee8-950b-9fb17b01c0b6",
+      "name": "S"
+    },
+    {
+      "id": "c7c9f72c-b394-47d5-82c4-872d31c28201",
+      "name": "S2"
+    },
+    {
+      "id": "de2185ef-790e-459a-a03c-77508d7c076e",
+      "name": "RPL"
+    },
+    {
+      "id": "5adbaa4f-d83d-4b0a-9aee-e93bd40455ff",
+      "name": "S3"
+    },
+    {
+      "id": "a1ec38f6-373f-40f4-ab6d-01bec295af25",
+      "name": "S-PLUS"
+    },
+    {
+      "id": "87097ccc-49f3-4a46-ae7d-2f138a418e0f",
+      "name": "S-Lang"
+    },
+    {
+      "id": "c4481e63-3eb7-4740-bfdc-aba2749a8bf6",
+      "name": "SA-C"
+    },
+    {
+      "id": "96d95371-8f7b-41c5-b566-710ad74659d2",
+      "name": "SAIL"
+    },
+    {
+      "id": "c8c67bd2-1f5e-463f-8e7e-3e556404f5f5",
+      "name": "SabreTalk"
+    },
+    {
+      "id": "3c90f081-f7e7-4121-8638-0884aec23752",
+      "name": "SAS"
+    },
+    {
+      "id": "d0fd8af5-9c47-409c-9345-522321371756",
+      "name": "SAM76"
+    },
+    {
+      "id": "e2b614ca-b3ad-4a49-8549-413af185a97f",
+      "name": "SASL"
+    },
+    {
+      "id": "d06208e8-df10-4092-9c22-24091821d422",
+      "name": "Sather"
+    },
+    {
+      "id": "e4b6352f-b416-4715-b93c-81d107e330c0",
+      "name": "Sawzall"
+    },
+    {
+      "id": "03b86aeb-55bd-42e9-84dc-fe63343cbb81",
+      "name": "Scala"
+    },
+    {
+      "id": "9b80351f-4a0a-4027-930d-94714caaaa42",
+      "name": "Self"
+    },
+    {
+      "id": "2faa519d-7e48-4e1b-9fe7-2ae040a51207",
+      "name": "SETL"
+    },
+    {
+      "id": "ad32fc80-0b74-49b0-a13e-0f29a69fff45",
+      "name": "Simula"
+    },
+    {
+      "id": "1214487d-3c81-498b-b91f-f9120d0276d0",
+      "name": "SMALL"
+    },
+    {
+      "id": "82fcbb1e-9fbd-43c9-9068-554a5333bcd0",
+      "name": "Solidity"
+    },
+    {
+      "id": "ae02227c-6d7a-479e-ba83-447b91ea519c",
+      "name": "SPARK"
+    },
+    {
+      "id": "405b7390-01af-47ec-b7b1-ce8b99b3e47a",
+      "name": "SR"
+    },
+    {
+      "id": "31f61d16-963a-412a-a23a-43d2b3471c47",
+      "name": "Scilab"
+    },
+    {
+      "id": "6566c21d-f5cc-4f22-81e8-7637dc022b2c",
+      "name": "SenseTalk"
+    },
+    {
+      "id": "bcc7bf68-feab-4c8b-94b4-16ad38c31877",
+      "name": "SiMPLE"
+    },
+    {
+      "id": "b3a5b4b2-bd58-4e86-a16a-a6231913d132",
+      "name": "SLIP"
+    },
+    {
+      "id": "bf31aeae-b051-46e8-bd49-e2370a61e37a",
+      "name": "Snowball"
+    },
+    {
+      "id": "e60e5fcc-2a7c-4c93-aa36-799ec0a13445",
+      "name": "Source"
+    },
+    {
+      "id": "43469d76-a0fa-4f4a-bd7c-2ee4d82aa386",
+      "name": "SPS"
+    },
+    {
+      "id": "89e5ce6d-b24b-4cea-bc6d-d8ce439c5f26",
+      "name": "S/SL"
+    },
+    {
+      "id": "273cb024-3bea-4c7a-aa13-e21df9100922",
+      "name": "SuperCollider"
+    },
+    {
+      "id": "102f9a1d-fcaf-46a8-bfae-ddc5f2159987",
+      "name": "SYMPL"
+    },
+    {
+      "id": "15f11d88-1210-4937-a3c0-b7532bee9ecd",
+      "name": "TACPOL"
+    },
+    {
+      "id": "6738f072-5811-4295-9282-6183750aee29",
+      "name": "Tcl"
+    },
+    {
+      "id": "3f1a05d4-5a3f-4af4-83b0-0455e966f780",
+      "name": "TeX"
+    },
+    {
+      "id": "cd21d9f8-ea10-4cf8-80cc-d91a361fc1d8",
+      "name": "Toi"
+    },
+    {
+      "id": "ff0a6273-da54-4868-98f8-240a922edd1b",
+      "name": "T-SQL"
+    },
+    {
+      "id": "8c24cc4f-02c2-499d-a9ec-98859df97820",
+      "name": "Scratch"
+    },
+    {
+      "id": "e41c9055-0e69-46b5-910f-1071cc93bd9b",
+      "name": "SIMPOL"
+    },
+    {
+      "id": "8a89fcf9-b9ba-4ad4-8cf2-cb44d62d4410",
+      "name": "Smalltalk"
+    },
+    {
+      "id": "3e6dd701-2a35-4214-b9c8-651c28fcd12f",
+      "name": "SNOBOL"
+    },
+    {
+      "id": "88db6cf5-e5bc-4b3a-80c7-46ba5aee6fdb",
+      "name": "Speakeasy"
+    },
+    {
+      "id": "3576d938-5e12-4d60-b629-86ec02804128",
+      "name": "Squirrel"
+    },
+    {
+      "id": "66a766e0-fe5f-4e70-8a01-9e0d77b126e9",
+      "name": "Subtext"
+    },
+    {
+      "id": "93522b3c-be69-4680-bd84-f0fa162972a1",
+      "name": "Script.NET"
+    },
+    {
+      "id": "70a3735a-342e-4ccc-b07a-e2ff4c5b9d56",
+      "name": "Serpent"
+    },
+    {
+      "id": "32ef582e-7c45-446c-859a-532b8e7f9d54",
+      "name": "Simulink"
+    },
+    {
+      "id": "320e9b96-e104-41d3-a90c-4b1b7d822e38",
+      "name": "Strongtalk"
+    },
+    {
+      "id": "cadf227d-d23b-493e-b744-4f9bdc0df69e",
+      "name": "Speedcode"
+    },
+    {
+      "id": "202a0489-8574-40d2-9ade-752a552740f1",
+      "name": "SQR"
+    },
+    {
+      "id": "21c9be92-263e-4903-a3f4-4859a07c7b60",
+      "name": "Strand"
+    },
+    {
+      "id": "27808700-d219-4e81-8d04-971c4bd8341d",
+      "name": "SuperTalk"
+    },
+    {
+      "id": "7a18f845-0ba0-4743-80d4-1bfca820a95e",
+      "name": "Swift (parallel scripting language)"
+    },
+    {
+      "id": "e7748db8-cfdc-40b2-b70c-711f8fa41ae6",
+      "name": "TACL"
+    },
+    {
+      "id": "f66daa72-ab2c-4845-ba5e-d42801a312ee",
+      "name": "TAL"
+    },
+    {
+      "id": "366e152c-bd81-42b5-bb13-894a147f1ab5",
+      "name": "TELCOMP"
+    },
+    {
+      "id": "4fbcc169-564d-4ccd-b8fb-40e983494ef8",
+      "name": "TMG"
+    },
+    {
+      "id": "8798deff-ec06-41ce-abd3-c890df7fd99a",
+      "name": "TPU"
+    },
+    {
+      "id": "3b0086d3-1ffc-4840-a4fe-2efffebff993",
+      "name": "Turing"
+    },
+    {
+      "id": "6cbd73bc-1824-453b-9e8a-690476f9ef61",
+      "name": "Ubercode"
+    },
+    {
+      "id": "bb5db45c-06c3-40a8-a764-4f8a4dcfd52d",
+      "name": "Uniface"
+    },
+    {
+      "id": "caa97f7e-2d10-41ae-98b1-a8f41e8a54ab",
+      "name": "VHDL"
+    },
+    {
+      "id": "d63c03ca-63d3-4226-9c28-5e144eb88ae8",
+      "name": "Visual LISP"
+    },
+    {
+      "id": "d41aec6d-8bd5-4439-b777-5e1ef68009b5",
+      "name": "WebDNA"
+    },
+    {
+      "id": "48f48a9c-20ec-4e7f-9847-34c5fc4eef38",
+      "name": "X10"
+    },
+    {
+      "id": "22752e91-9e0b-4095-8b50-029a42111bfe",
+      "name": "XL"
+    },
+    {
+      "id": "19e0ac77-1cd7-4983-bf16-523b6c5b1830",
+      "name": "XQuery"
+    },
+    {
+      "id": "c5503cee-9f97-48ce-a911-650828c77664",
+      "name": "Yorick"
+    },
+    {
+      "id": "8d570bbc-1c88-49ce-a765-d2886bb929aa",
+      "name": "Zebra, ZPL, ZPL2"
+    },
+    {
+      "id": "f23143d4-b1ff-4729-81d6-9b275bd7626c",
+      "name": "Sed"
+    },
+    {
+      "id": "9e023139-7b87-49ea-afe6-28a8b11489da",
+      "name": "SIGNAL"
+    },
+    {
+      "id": "2f7dd6f5-ba5e-45c2-ba4e-dc5e03f98ac3",
+      "name": "Singularity"
+    },
+    {
+      "id": "b1311e62-1aa8-4c71-849f-c67ce4bd9cd0",
+      "name": "Snap!"
+    },
+    {
+      "id": "1f4890ff-af97-403e-89a6-bb9fd0119c0b",
+      "name": "SPIN"
+    },
+    {
+      "id": "840d5a33-db75-446c-88d5-8e7211d6f493",
+      "name": "SQL"
+    },
+    {
+      "id": "be00e246-9130-4cdc-b1c8-04e1e18f0f22",
+      "name": "Starlogo"
+    },
+    {
+      "id": "c2693fbd-884e-4b37-9e38-5e834447eb68",
+      "name": "SBL"
+    },
+    {
+      "id": "10b0d4ea-a632-4393-8d8a-ad43b35748d8",
+      "name": "Stateflow"
+    },
+    {
+      "id": "a8f168bd-96d8-45d7-80e5-ba1b342ba1b0",
+      "name": "TECO"
+    },
+    {
+      "id": "9d8a9a19-6d0a-4d75-872f-e42e1cad7694",
+      "name": "TIE"
+    },
+    {
+      "id": "f6740600-7525-410d-a2b8-cd6dfbdcf457",
+      "name": "TTCN"
+    },
+    {
+      "id": "bbbe002f-9705-491b-8fc1-44e27d0111f9",
+      "name": "UCSD Pascal"
+    },
+    {
+      "id": "9bf9fa39-30dd-46a4-8511-2309878c90ad",
+      "name": "Unix shell"
+    },
+    {
+      "id": "fcb4cc11-91c2-4ece-bbe4-536961b307da",
+      "name": "Viper"
+    },
+    {
+      "id": "c37eb094-ba1e-4a82-a4c3-21e3e2f55634",
+      "name": "Visual Objects"
+    },
+    {
+      "id": "a5b7fb55-80a4-4f97-a7ab-84fbddf3a3dc",
+      "name": "Winbatch"
+    },
+    {
+      "id": "f70fb767-99a5-4af5-a076-90c6f1a964cc",
+      "name": "xBase"
+    },
+    {
+      "id": "cf01a173-89fd-4106-9cfd-ef8654a23007",
+      "name": "Xojo"
+    },
+    {
+      "id": "97a091a2-3391-4081-b3ec-ebe132567a05",
+      "name": "XSharp"
+    },
+    {
+      "id": "23a6c320-3259-44e0-96b9-3cc865dbecdc",
+      "name": "Yoix"
+    },
+    {
+      "id": "fe561c93-b18b-489f-9687-0c73d8a8d019",
+      "name": "ZOPL"
+    },
+    {
+      "id": "7c48516e-4cee-421e-95c7-996c9ca1ebe2",
+      "name": "T"
+    },
+    {
+      "id": "fe29c628-b51d-4300-afbb-4b2cdac2087d",
+      "name": "Tom"
+    },
+    {
+      "id": "c0cc949b-2b8c-4151-ba02-c472f3ad5b24",
+      "name": "Topspeed"
+    },
+    {
+      "id": "4d9095ec-2e76-46f6-9104-a3da2c712ab9",
+      "name": "Transcript"
+    },
+    {
+      "id": "dbe62a79-d146-4998-98ec-3ce321a77118",
+      "name": "TypeScript"
+    },
+    {
+      "id": "2cc7b940-0c15-493d-995d-f02ad5a7edef",
+      "name": "Unicon"
+    },
+    {
+      "id": "4605c844-5790-4aea-ab8d-db53e0a2d00d",
+      "name": "UnrealScript"
+    },
+    {
+      "id": "e8ed8d91-fb0c-48c4-8672-5ea8ecbe741d",
+      "name": "Vim script"
+    },
+    {
+      "id": "919e6ee8-f376-45df-973d-bbba68da2cf3",
+      "name": "Visual FoxPro"
+    },
+    {
+      "id": "7fef05cb-7095-4f03-a0cb-d552708fa804",
+      "name": "VSXu"
+    },
+    {
+      "id": "ea67759c-bc42-43dd-8f48-41cbfa7213c9",
+      "name": "Wolfram Language"
+    },
+    {
+      "id": "f27a5688-066f-4a25-a8c8-401ce0b8ebee",
+      "name": "xBase++"
+    },
+    {
+      "id": "5da9bc70-49e1-4806-99e9-bc7561f80b32",
+      "name": "XOTcl"
+    },
+    {
+      "id": "6372f66c-01ee-4128-b4f7-bf64453990d1",
+      "name": "XSLT"
+    },
+    {
+      "id": "30488c53-20e8-433b-8153-e6db2417b62d",
+      "name": "Zeno"
+    },
+    {
+      "id": "20eaff11-8304-49e2-9410-776de3b6549e",
+      "name": "Z++"
+    },
+    {
+      "id": "8ea62ea1-61e4-4496-a046-ebe1e54f1f22",
+      "name": "SystemVerilog"
+    },
+    {
+      "id": "f24fed69-2ca1-4845-8223-1390fd37278b",
+      "name": "Trac"
+    },
+    {
+      "id": "2ea54d30-3383-4365-a8dd-fdd4aab6bcd4",
+      "name": "TUTOR"
+    },
+    {
+      "id": "bb3761f0-59cb-415b-ada6-487ea86cf9fe",
+      "name": "UNITY"
+    },
+    {
+      "id": "08d288f3-4a3a-411a-8f94-fcdaebcad3f9",
+      "name": "Verilog"
+    },
+    {
+      "id": "1b56ee8d-07ef-4ab3-bb2b-d1b3d56b4fb1",
+      "name": "Visual DialogScript"
+    },
+    {
+      "id": "d1f15ccf-3e8c-4d5e-8059-13509adad4b4",
+      "name": "WebAssembly"
+    },
+    {
+      "id": "e2161afd-a28e-44cd-805d-848e20ea6816",
+      "name": "XAML"
+    },
+    {
+      "id": "470e7f60-9a3d-49f8-a2ae-dfd471d3dc81",
+      "name": "xHarbour"
+    },
+    {
+      "id": "3779cde2-b76b-4254-ab06-c0737b28fff9",
+      "name": "XPL0"
+    },
+    {
+      "id": "8a498abb-3418-4b1a-86c0-be9a6c1f1879",
+      "name": "YAML"
+    },
+    {
+      "id": "268d3355-51c2-4043-9ece-5927dfcefc20",
+      "name": "YUI"
+    },
+    {
+      "id": "0aa8b0bb-6497-4ccd-8607-53769d0626db",
+      "name": "Tynker"
+    },
+    {
+      "id": "9a7c5314-2466-44eb-8443-bd32982e6084",
+      "name": "Visual J++"
+    },
+    {
+      "id": "41383a75-a297-4520-8a3f-60acc0b34b43",
+      "name": "WATFIV, WATFOR"
+    },
+    {
+      "id": "dd852a3a-fa4a-4bfa-94ce-e3f26813238c",
+      "name": "Wyvern"
+    },
+    {
+      "id": "0a8c5b0b-1848-4a5e-a923-30e494c7b391",
+      "name": "XC"
+    },
+    {
+      "id": "5c833d88-a2a7-4b9d-931e-e00ec1681af2",
+      "name": "XPL"
+    },
+    {
+      "id": "e8edbe2a-814d-46bb-85ed-c02e4ca2a75f",
+      "name": "Xtend"
+    },
+    {
+      "id": "4d05cb52-6280-4024-a324-4804fac193ca",
+      "name": "Z notation"
+    },
+    {
+      "id": "6b9deea3-c522-48ed-8c17-ea21fbfd08cc",
+      "name": "Zsh"
+    },
+    {
+      "id": "ad65140c-3e3b-4473-b492-4217412674eb",
+      "name": "ZPL"
+    },
+    {
+      "id": "cd200fc3-cb32-45d8-aef8-d8ae494d492b",
+      "name": "Scheme"
+    },
+    {
+      "id": "d393ebe2-c335-4029-aa6c-279279d5d72f",
+      "name": "Seed7"
+    },
+    {
+      "id": "d1486551-6330-4585-87a0-f6ff4aac85f6",
+      "name": "SequenceL"
+    },
+    {
+      "id": "6480482c-a7fc-47c8-8af7-53dee00fdb34",
+      "name": "SIMSCRIPT"
+    },
+    {
+      "id": "74c009b8-fb6e-4f9e-adeb-3642a48d8fd7",
+      "name": "SISAL"
+    },
+    {
+      "id": "6efb88a8-19a2-4b09-9ea2-e4282b258874",
+      "name": "SML"
+    },
+    {
+      "id": "6ebcbe38-14b2-4375-bbef-0bdd00934a43",
+      "name": "SOL"
+    },
+    {
+      "id": "beb4cec2-6b43-4bc3-88c0-a7da591c00a2",
+      "name": "SOPHAEROS"
+    },
+    {
+      "id": "c1069089-8066-4339-88ff-0f145189298c",
+      "name": "SP/k"
+    },
+    {
+      "id": "11ec7fef-fa7b-4e87-8460-089c6ff3fab1",
+      "name": "Squeak"
+    },
+    {
+      "id": "ad2997c8-21c3-4a30-bb2e-2cc80898aba4",
+      "name": "Stata"
+    },
+    {
+      "id": "d9c1c706-1bcb-410a-be1a-539a0dec3c2f",
+      "name": "Swift (Apple programming language)"
+    },
+    {
+      "id": "3954c0ed-471f-4893-a837-367c52129878",
+      "name": "TADS"
+    },
+    {
+      "id": "695a14aa-3ad6-4aaf-99c0-4c971a62c631",
+      "name": "Tea"
+    },
+    {
+      "id": "d08e84a2-ea1e-44df-83b5-378bbb10b395",
+      "name": "TEX"
+    },
+    {
+      "id": "94b865b2-64ce-4157-9b87-c267ab90190c",
+      "name": "TOM"
+    },
+    {
+      "id": "86708c38-5de8-4cc1-82d0-e52b30130e11",
+      "name": "TTM"
+    },
+    {
+      "id": "f6c7738e-b0c4-42a1-93a2-7311c7a6e6e7",
+      "name": "TXL"
+    },
+    {
+      "id": "a4ebf816-c598-489c-8daa-5334d1a51ed4",
+      "name": "Umple"
+    },
+    {
+      "id": "fb34a44d-dc6b-46be-998c-625597e7c088",
+      "name": "Vala"
+    },
+    {
+      "id": "2bef498e-b542-4450-b7ca-010cdd2065f8",
+      "name": "Visual DataFlex"
+    },
+    {
+      "id": "0825fcf6-f345-4fa6-88dd-3ecd7a161ef0",
+      "name": "Visual Prolog"
+    },
+    {
+      "id": "3b94ea6b-1ddb-4c21-a699-6a94b2a7ee5c",
+      "name": "Whiley"
+    },
+    {
+      "id": "51345354-35c1-4675-b9f1-cd57fcb33b9d",
+      "name": "X++"
+    },
+    {
+      "id": "dd4308a7-cbee-4f15-a116-9ea3435ac57f",
+      "name": "XBL"
+    },
+    {
+      "id": "d564af31-ac25-4af1-ab59-765e92c6816f",
+      "name": "XOD (programming language)"
+    },
+    {
+      "id": "16933ee7-3031-4805-a921-2e9e87cbe681",
+      "name": "XSB"
+    },
+    {
+      "id": "fabe6848-0dea-42ac-b281-7a1fed07d6f2",
+      "name": "YQL"
+    },
+    {
+      "id": "12fa5308-2fb2-4695-8e06-a4ac78f5f678",
+      "name": "ZetaLisp"
+    }
+  ]
+}
