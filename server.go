@@ -14,12 +14,15 @@ import (
 func main() {
 
 	gin.ForceConsoleColor()
-	r := gin.Default()
-
+	r := gin.New()
+	utils.InitWs()
 	database.OpenConnection()
 	//runMigrations()
 
 	router.Attach(r)
+
+	r.GET("/socket.io/*any", gin.WrapH(utils.Server))
+	r.POST("/socket.io/*any", gin.WrapH(utils.Server))
 
 	utils.InitBot()
 
@@ -33,7 +36,6 @@ func runMigrations() {
 	database.Connector.Model(&entities.Log{}).AddForeignKey("application_id", "applications(id)", "RESTRICT", "RESTRICT")
 	database.Connector.Model(&entities.Event{}).AddForeignKey("log_id", "logs(id)", "RESTRICT", "RESTRICT")
 	database.Connector.Model(&entities.Event{}).AddForeignKey("event_type_id", "event_types(id)", "RESTRICT", "RESTRICT")
-
 
 	type JsonLanguage struct {
 		Language []entities.Language `json:"languages"`

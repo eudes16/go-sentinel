@@ -12,7 +12,6 @@ func LanguageHandlers(r *gin.Engine) {
 	applications := r.Group("/languages")
 	{
 		applications.GET("/", languagesGetAll)
-		applications.POST("/", insertLanguages)
 	}
 }
 
@@ -24,10 +23,4 @@ func languagesGetAll(c *gin.Context) {
 	} else {
 		c.JSON(http.StatusOK, languages)
 	}
-}
-
-func insertLanguages(c *gin.Context) {
-	var lang entities.Language
-	c.BindJSON(&lang)
-	database.Connector.Create(&lang)
 }

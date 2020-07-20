@@ -17,7 +17,7 @@ func Attach(router *gin.Engine) {
 		//AllowOrigins: []string{"*"},
 		AllowAllOrigins: true,
 		//AllowOriginFunc:  func(origin string) bool { return true },
-		MaxAge:           86400,
+		MaxAge: 86400,
 	}))
 
 	// declaração das rotas
