@@ -6,6 +6,7 @@ import (
 	"eudes16/go-sentinel/entities"
 	"eudes16/go-sentinel/router"
 	"eudes16/go-sentinel/utils"
+	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 	uuid "github.com/satori/go.uuid"
 	"time"
@@ -14,13 +15,20 @@ import (
 func main() {
 
 	gin.ForceConsoleColor()
-	r := gin.New()
-	utils.InitWs()
+	r := gin.Default()
+	r.Use(cors.New(cors.Config{
+		AllowMethods:     []string{"GET", "POST", "OPTIONS", "PUT"},
+		AllowHeaders:     []string{"Origin", "Content-Length", "Content-Type", "User-Agent", "Referrer", "Host", "Token", "access-control-allow-origin"},
+		ExposeHeaders:    []string{"Content-Length"},
+		AllowCredentials: true,
+		AllowOrigins: []string{"http://localhost"},
+		//AllowOriginFunc:  func(origin string) bool { return true },
+		MaxAge: 86400,
+	}))
 	database.OpenConnection()
-	//runMigrations()
-
+	utils.InitWs()
 	router.Attach(r)
-
+	//runMigrations()
 	r.GET("/socket.io/*any", gin.WrapH(utils.Server))
 	r.POST("/socket.io/*any", gin.WrapH(utils.Server))
 
@@ -28,6 +36,7 @@ func main() {
 
 	r.Run(":3000")
 }
+
 
 func runMigrations() {
 	database.Connector.AutoMigrate(&entities.Language{}, &entities.Log{}, &entities.Application{}, entities.Event{}, &entities.EventType{})
