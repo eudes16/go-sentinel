@@ -16,15 +16,7 @@ func main() {
 
 	gin.ForceConsoleColor()
 	r := gin.Default()
-	r.Use(cors.New(cors.Config{
-		AllowMethods:     []string{"GET", "POST", "OPTIONS", "PUT"},
-		AllowHeaders:     []string{"Origin", "Content-Length", "Content-Type", "User-Agent", "Referrer", "Host", "Token", "access-control-allow-origin"},
-		ExposeHeaders:    []string{"Content-Length"},
-		AllowCredentials: true,
-		AllowOrigins: []string{"http://localhost"},
-		//AllowOriginFunc:  func(origin string) bool { return true },
-		MaxAge: 86400,
-	}))
+	r.Use(cors.Default())
 	database.OpenConnection()
 	utils.InitWs()
 	router.Attach(r)
